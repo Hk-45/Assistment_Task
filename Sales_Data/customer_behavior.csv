@@ -1,0 +1,1001 @@
+CustomerID,Region,SatisfactionScore,PurchaseFrequency,AverageSpend,ChurnRisk,ReferralCount
+b92aa407,Middle East,8,5.95,362.86,Low,10
+f82f37ec,Middle East,4,14.42,401.32,High,3
+36ee83b4,North America,1,3.39,425.86,Low,1
+8f7a7b0c,North America,7,10.37,123.0,Low,4
+d86f9336,APAC,5,2.56,40.65,Low,6
+b425f817,North America,9,5.74,269.98,Medium,3
+15de5877,North America,3,4.76,368.83,Medium,10
+e790fbb9,North America,2,4.28,403.2,Medium,9
+b4b770f7,APAC,6,16.3,455.05,Low,1
+88063f74,Europe,1,17.48,294.08,High,1
+00511f3b,Middle East,5,11.85,78.71,Low,4
+eda9f2cd,APAC,6,11.03,368.01,Low,9
+9cc71e60,North America,5,4.02,316.63,High,2
+357d19c4,Europe,10,9.19,484.46,High,1
+a3dedf42,Middle East,1,13.84,279.75,Medium,9
+773b58a6,Middle East,7,19.44,69.45,Low,10
+fd6f44c3,APAC,1,12.42,323.52,High,1
+981b2e58,APAC,1,12.05,480.25,High,3
+b01eea32,North America,7,7.87,279.47,High,8
+ca6f1335,APAC,3,15.2,341.39,Low,0
+37f36100,Middle East,10,18.57,324.88,High,3
+f8acc814,North America,9,17.05,408.25,High,6
+4e98b660,APAC,7,17.59,168.25,Medium,1
+77d96256,North America,9,7.24,496.79,High,7
+31391ef4,North America,3,16.11,468.58,Medium,0
+16a4dddc,Europe,1,5.99,34.39,Low,2
+05927fcb,Middle East,4,11.41,145.45,High,10
+93c54b3b,North America,6,1.47,198.2,High,4
+05cc3adc,Middle East,9,16.03,113.54,Low,7
+6e440745,Europe,5,1.16,27.58,Medium,7
+e7b9587c,Middle East,10,14.05,69.95,Low,4
+e72ccf63,Europe,8,2.27,317.09,High,10
+223493b1,North America,10,14.17,229.77,Low,7
+7bd60c35,Middle East,5,16.57,182.29,Medium,9
+a6f3897e,Europe,1,14.34,172.31,Low,9
+533cfe34,North America,3,19.43,208.77,Medium,10
+795cd7ca,Europe,6,1.34,208.46,Medium,4
+51ed2128,North America,7,11.78,430.33,Medium,5
+95c8faa8,Middle East,4,5.99,108.11,High,1
+78dffb59,North America,10,7.91,478.39,High,8
+737490ca,North America,10,3.16,343.78,Low,2
+a3dfb835,Middle East,6,5.36,190.16,High,7
+cc6d886d,Europe,2,1.19,124.9,Medium,8
+0ffd1d22,Middle East,5,13.67,298.11,Medium,5
+90fb7446,Middle East,9,13.44,72.49,High,9
+ed12425d,APAC,2,7.02,302.8,High,7
+753e429d,North America,9,12.12,357.07,High,7
+b2b018c4,North America,2,10.35,154.93,Medium,3
+5c979911,APAC,8,17.33,28.2,Medium,2
+c8d03850,APAC,7,10.85,274.55,Low,1
+7edcb691,APAC,8,4.23,482.98,Low,1
+4f54ab11,Europe,1,12.96,452.66,Low,2
+1f97fb45,Middle East,9,1.18,488.76,Low,3
+f6a91fd5,APAC,5,6.96,303.6,Medium,9
+7f975a6c,Europe,8,1.82,475.19,High,7
+ce010f64,Europe,5,10.81,416.5,High,7
+7c7ecf70,APAC,2,3.06,196.29,High,7
+fa452460,North America,2,15.13,71.14,High,7
+9b01ea39,North America,4,12.17,185.65,Medium,3
+fc4e7d8b,Europe,7,7.69,388.59,Medium,10
+bd955f32,APAC,2,11.66,343.08,Low,8
+634132b2,Europe,1,15.44,243.34,Low,0
+1fbb1ab0,APAC,6,1.79,490.84,Low,2
+a107fd0f,North America,10,10.79,47.79,Medium,6
+7dde98d5,Middle East,9,11.51,32.33,High,8
+1a2ce6c3,APAC,2,9.82,133.07,High,0
+70ff3297,North America,1,18.56,471.81,Low,10
+31e58743,Middle East,8,10.36,177.73,High,7
+c567fd6a,APAC,6,17.3,28.27,High,2
+c5a9cf17,Middle East,1,14.23,324.64,Medium,4
+7c073d8e,Europe,6,15.15,208.13,Low,5
+b038d562,APAC,3,12.89,137.61,Medium,10
+8dc98088,Middle East,10,12.95,228.85,Low,5
+01b12852,Middle East,6,4.34,101.75,High,7
+cf3516a1,Europe,3,7.76,144.96,Low,0
+12be974e,APAC,8,4.97,255.68,Medium,7
+2393cb50,North America,2,3.72,329.15,Medium,0
+99cdff5f,APAC,8,1.08,66.46,Medium,0
+0ef89d4a,North America,6,1.57,311.69,Low,10
+ce28d854,Middle East,10,17.18,363.23,Low,3
+1b00c279,North America,6,10.14,324.19,Low,1
+f6cba7fc,North America,1,10.54,350.74,Low,0
+0b7309ee,Middle East,2,19.65,250.17,Medium,9
+24a5fc06,Europe,6,19.58,432.69,High,6
+8b40bc11,North America,5,19.33,169.76,High,10
+3da80726,North America,6,17.46,452.04,Low,6
+fbebae85,North America,3,18.8,449.58,Medium,9
+3d46e804,North America,6,5.78,456.23,Medium,5
+ca684e11,Middle East,6,14.28,345.14,Medium,3
+1ae06ea0,Middle East,7,19.25,92.35,Low,3
+807a3fcf,APAC,6,5.19,29.87,Low,5
+02950c23,North America,10,3.78,273.97,High,9
+0c1a3822,North America,1,17.8,249.44,Low,6
+dd8c5110,APAC,6,18.52,241.78,Low,5
+8eeaed8f,Europe,7,14.39,197.3,Medium,9
+91182718,Europe,1,13.97,491.92,Low,8
+61c75fc5,Middle East,6,14.13,125.99,High,7
+4862067a,APAC,4,3.09,53.12,Medium,3
+6bf10684,North America,9,9.95,447.02,Medium,8
+c3a4fcdc,APAC,6,17.98,269.39,Medium,7
+d7ec026d,North America,8,5.04,42.82,High,10
+3627e6af,Middle East,7,15.29,472.14,Low,6
+3905f63f,North America,6,3.47,495.93,Medium,8
+f57110b6,Europe,8,1.03,478.45,Medium,3
+3347d851,Europe,1,16.95,413.47,High,1
+819f43a3,Middle East,7,10.2,415.86,Low,9
+86110d2f,North America,6,13.56,170.66,Medium,5
+6ce0c584,Europe,8,11.69,234.52,Medium,8
+b4416c79,Middle East,10,4.21,467.28,High,8
+18c4197c,Middle East,9,15.71,215.5,High,3
+e9d03b53,Middle East,3,2.8,280.47,Low,3
+1618ec7d,APAC,1,10.91,496.68,Low,7
+ac74ac20,Middle East,5,4.25,135.56,High,10
+c75f5893,Middle East,3,3.84,481.29,High,0
+62e82cb5,Europe,2,8.01,451.48,Medium,1
+52c097b1,Middle East,6,19.47,448.36,Medium,0
+f85e51b1,APAC,6,6.42,447.78,Low,0
+76d0fd2b,APAC,6,19.54,248.05,Low,10
+cb2f4cd5,North America,6,10.78,78.18,Low,1
+f8857102,Europe,6,2.63,196.79,High,1
+f6205c38,Middle East,4,16.89,405.31,Low,8
+0c707dc5,APAC,9,1.9,288.32,Medium,1
+8bcce8af,APAC,4,7.24,99.89,High,9
+6381f809,APAC,8,8.37,228.82,High,10
+6dceb396,Middle East,3,17.29,95.76,Low,5
+5de4e5b4,Europe,2,15.91,476.26,Medium,5
+c955eb0b,Europe,3,9.08,94.53,Low,7
+dcaa7fbc,North America,3,5.97,140.9,Medium,10
+9fb707dc,North America,3,17.7,421.02,High,10
+6394ffc5,North America,9,12.15,248.03,Medium,6
+60adb035,North America,1,9.97,398.56,Low,9
+e2cd6e1c,Middle East,7,7.47,183.71,Low,5
+3c018ed0,North America,6,18.84,126.16,Medium,1
+47e0b759,Middle East,8,4.96,163.5,High,8
+ec2baf4f,Europe,10,6.66,86.82,High,6
+4ba6af8f,APAC,7,19.61,384.39,Medium,1
+2856b924,Europe,4,13.3,327.15,Medium,8
+1d602263,APAC,1,9.43,217.38,Low,2
+78cc414b,North America,5,12.39,473.62,High,5
+08ee3b0a,Europe,9,9.15,34.71,Low,2
+e03a3d42,Middle East,1,10.33,76.26,Medium,10
+8c9fd345,APAC,7,19.69,431.96,Low,1
+3e09b10a,Europe,1,6.92,396.18,High,6
+23a6f9b9,North America,4,9.89,343.83,Low,9
+3706450c,Middle East,10,16.14,236.6,High,9
+da6890b5,APAC,2,13.22,29.93,High,4
+9f92e8ff,North America,5,4.08,39.63,Low,1
+effc24c7,North America,1,12.83,338.27,Medium,10
+68bc8a9b,North America,1,8.38,473.88,Medium,2
+703f65c6,North America,3,15.36,403.54,Medium,5
+3d4404fc,North America,7,5.44,61.32,High,2
+d2a9e21f,APAC,1,6.9,145.51,Medium,3
+6e13ac61,Europe,9,8.11,60.33,Low,2
+eda6c1b3,North America,5,19.24,346.53,Low,8
+93b6c045,Europe,1,8.81,462.26,High,8
+cfc8bc22,Europe,9,16.73,475.46,Medium,7
+155bdbe8,Europe,8,14.8,398.22,High,3
+a6b47836,Europe,2,5.4,314.62,Low,6
+58245859,Middle East,7,3.72,410.22,High,9
+ea1c4376,Middle East,10,16.1,208.37,Medium,4
+94f58b79,APAC,10,4.61,396.01,High,2
+43327d7f,Middle East,5,18.67,123.07,Medium,10
+9953df7e,APAC,7,7.36,303.87,High,9
+05a7757c,North America,1,7.48,491.6,Medium,9
+8addeea6,Middle East,8,3.77,253.94,Medium,7
+b190e26e,North America,8,3.33,153.42,High,6
+dc8dc965,North America,7,2.1,187.01,Low,3
+3b3be9e4,Middle East,1,7.18,89.1,Medium,3
+ca4a062d,Europe,1,17.99,317.92,Low,6
+91bd7512,Middle East,2,6.55,358.5,High,3
+a38e9c0a,Middle East,4,2.94,94.71,Low,2
+fc39dc50,North America,10,14.3,187.65,High,10
+7a02abf6,North America,6,4.87,481.62,Medium,8
+68e2f168,Middle East,3,5.56,263.58,High,6
+2a58e4ca,Middle East,10,16.24,321.66,Low,0
+4280d230,Europe,9,5.12,163.65,High,1
+2616eb80,APAC,6,11.62,58.54,High,4
+ef3912f3,Middle East,6,8.73,227.64,High,1
+53b24d9a,North America,1,17.77,138.05,Low,9
+218f716c,APAC,9,10.82,192.65,High,4
+1a9149c5,North America,4,4.97,173.78,High,2
+02d19d83,North America,2,7.0,214.23,Low,3
+0a5320ea,North America,9,5.3,293.28,Low,8
+053e0c8a,Europe,3,9.19,330.66,Medium,6
+cb26a59b,APAC,7,2.6,155.86,Low,6
+87af9d31,Europe,8,9.27,155.18,Low,7
+f858dfc2,North America,10,9.09,92.73,Medium,6
+481de12b,Middle East,2,12.35,75.68,High,8
+5fe2dfb3,Middle East,3,13.53,487.71,High,8
+87896d76,North America,8,8.91,181.78,High,9
+00b2ca7b,APAC,8,16.62,355.32,High,7
+91ee4dff,Middle East,10,2.3,240.55,Low,10
+d7463e07,Europe,8,18.77,318.18,Low,9
+8ce79db2,Middle East,5,14.89,107.77,Medium,5
+ba3f1b03,Europe,6,8.87,20.77,Low,2
+08892400,North America,10,15.86,120.6,High,5
+7e8336f6,North America,7,6.65,496.42,Low,7
+b9a8b714,North America,3,9.28,233.59,Medium,5
+285b594d,Europe,9,6.51,494.94,Low,4
+6c81bd68,Middle East,3,13.59,462.73,Low,6
+6a8ead5e,Europe,10,14.28,477.55,Medium,9
+e11f4212,North America,2,10.86,105.8,High,7
+6dc546fe,North America,10,5.9,30.05,Low,3
+d54a6ba6,Europe,1,8.01,53.32,Medium,0
+dd48c7d3,Middle East,8,3.8,432.84,Medium,5
+af358a36,APAC,5,6.35,239.99,Medium,2
+065bafb5,Europe,2,18.11,469.36,Medium,8
+d9bcd2ee,North America,2,17.29,333.38,High,7
+96226c19,APAC,4,6.79,483.99,High,3
+ed68b761,APAC,4,5.95,448.94,High,4
+4d79b0dc,Middle East,8,4.91,484.14,Low,10
+072d7a3c,Europe,4,8.69,224.15,High,1
+1a0dd38c,APAC,4,12.36,167.34,Medium,9
+e2aa2992,Europe,7,8.93,440.57,Medium,5
+3b318a98,Middle East,2,18.81,196.69,Low,9
+511b99b8,Europe,6,10.71,59.7,Medium,4
+50155790,APAC,1,14.5,316.54,High,8
+0e89e999,Middle East,2,7.63,407.39,High,4
+3fbd6237,Europe,7,2.72,123.19,Medium,0
+8853c084,Europe,5,19.93,269.9,High,8
+40e7d056,Europe,9,16.7,43.08,Medium,9
+75a9354e,Europe,8,3.94,39.51,High,0
+d7203fff,Europe,1,15.15,52.32,High,5
+bee76561,APAC,5,1.27,231.86,Medium,3
+9c999da5,APAC,9,1.05,437.49,Medium,3
+7845d89b,APAC,3,15.54,426.3,Medium,7
+2677d3f7,North America,3,10.09,319.77,Low,1
+1bdf6e03,Europe,3,4.83,272.99,High,7
+b15e51dc,APAC,5,10.39,99.27,Medium,2
+dc6a028b,APAC,1,18.73,122.73,Medium,1
+80365bb5,North America,4,10.53,291.48,Medium,8
+6e32be96,Europe,9,13.38,443.79,Low,5
+18e8e2ef,Europe,3,15.46,198.28,High,3
+8a239f72,North America,9,5.15,354.2,Medium,9
+eaf8fdc7,North America,8,18.16,182.45,Medium,8
+1a3d2001,Middle East,10,4.0,68.41,Low,2
+c8c221a3,North America,9,8.05,107.27,Medium,0
+8f4b10f8,North America,3,19.19,68.7,Low,0
+e8bbb340,North America,7,2.36,293.44,High,1
+efc9e151,APAC,6,15.93,465.63,High,8
+11b5d48d,Europe,2,9.71,46.81,Low,2
+2400a986,North America,5,10.94,217.98,Low,0
+98876579,Europe,7,6.52,278.84,Low,7
+6f19d438,Middle East,2,9.86,451.87,High,3
+bdf5a9f8,APAC,3,16.17,348.37,High,9
+585fb963,APAC,6,10.41,220.76,Low,2
+26159a58,APAC,5,6.98,323.2,Low,9
+d09e3070,North America,2,7.8,83.83,Medium,5
+3b11830e,Europe,10,1.13,311.78,Medium,4
+e9086ef4,APAC,1,14.45,299.77,High,7
+99c779ee,North America,6,2.09,385.71,High,2
+0ca10516,North America,3,3.56,392.0,Medium,9
+a584666f,Europe,7,18.76,317.99,Low,5
+9a89115b,Europe,5,2.02,359.81,High,4
+f679ec4c,Europe,4,15.91,325.95,Medium,4
+f59a97b1,APAC,2,9.28,246.07,Low,6
+dd6ac6cf,Middle East,9,16.94,388.32,Low,5
+919b6f14,APAC,9,3.15,111.19,Medium,1
+9befe960,Middle East,6,13.26,415.95,Low,2
+d37669d6,Middle East,7,15.07,327.36,Low,10
+b85a77dc,Europe,3,4.13,98.65,Low,4
+1fc2f0e7,Middle East,1,8.6,451.21,Medium,8
+006f173e,Europe,3,11.31,158.39,Medium,0
+3c510b6e,APAC,1,2.87,460.44,Medium,3
+8f635b0c,North America,5,18.59,273.8,Medium,2
+1f7b0acb,APAC,7,17.36,25.11,Low,6
+64d54b52,Europe,10,17.59,308.47,Medium,9
+f83eb74f,Middle East,3,6.54,187.28,Medium,1
+79b1cee0,North America,7,15.18,179.87,Medium,0
+79571678,North America,6,3.17,80.97,Low,2
+725143b8,North America,5,18.39,146.82,Low,4
+1b68fbf9,Middle East,9,3.84,211.31,High,0
+c31469ae,APAC,9,18.02,372.8,Low,5
+08c59462,Europe,6,10.41,150.48,Medium,9
+80ce949c,Middle East,6,11.25,106.19,Medium,0
+4c24d0b6,APAC,10,7.84,238.52,Medium,9
+3d3660c8,Middle East,3,11.03,176.68,Medium,3
+23ad09b9,Europe,1,2.64,490.91,High,2
+dac47e3e,Middle East,7,18.27,148.02,High,6
+660d1774,North America,6,17.26,482.9,High,3
+9a42327f,Middle East,3,11.54,336.49,Low,9
+4a7da16d,APAC,3,16.71,487.11,Medium,7
+993a4575,APAC,1,19.33,136.53,Low,3
+1b96f942,Europe,2,13.81,69.32,Medium,5
+2d73504b,APAC,2,16.75,320.38,Medium,3
+8946d799,APAC,2,4.93,105.07,High,0
+ca6702b1,Europe,7,1.45,214.61,Low,10
+a4b51dad,North America,5,17.99,165.48,Medium,1
+36875a3d,Middle East,5,18.1,454.84,High,1
+a6722294,Europe,6,17.33,51.95,Medium,10
+145d691c,North America,4,14.57,283.67,Low,3
+53baadaa,Middle East,9,17.53,230.52,High,3
+27d20fb2,Middle East,9,11.12,151.22,Low,3
+a6a535c3,Middle East,7,13.04,267.64,Medium,5
+ce071cce,Middle East,10,16.51,204.55,Medium,4
+5207d061,Europe,10,2.89,261.54,Medium,6
+15f46474,Europe,3,18.01,156.46,Low,3
+d3cc4f0a,Europe,7,18.26,417.02,High,9
+d8c311bb,APAC,1,12.72,322.05,Low,10
+706c9eb7,APAC,5,1.32,31.48,Low,5
+51ea20c9,Europe,5,14.86,479.19,High,0
+61e87bd8,Middle East,3,15.33,327.06,Medium,2
+e81e312d,APAC,9,3.21,378.54,Medium,6
+ff2a65eb,Europe,6,11.38,357.53,Low,8
+1b872126,Middle East,5,17.33,100.27,High,10
+c286a07d,Europe,2,14.23,380.76,Low,1
+3e71fcb6,North America,3,16.76,90.36,High,7
+d56b732f,Middle East,4,5.87,312.57,High,7
+c19e494b,North America,4,14.74,183.57,Medium,10
+08cb04da,North America,1,11.34,346.24,Medium,4
+daa0c253,Middle East,1,19.13,155.51,Medium,7
+2df91cd3,Middle East,9,8.19,368.52,High,8
+f1bdfef8,APAC,8,3.27,117.24,High,0
+697fb165,Middle East,7,5.45,250.76,Low,0
+436258e0,Europe,7,15.76,409.55,High,6
+2d96a8ec,APAC,10,6.88,56.69,Medium,10
+2d19473e,Europe,8,13.6,480.38,High,6
+7183ea95,Middle East,8,16.16,423.98,Low,9
+d4ca29a9,Middle East,8,8.8,479.45,Low,5
+3aaa7e8d,Middle East,7,5.4,216.56,High,3
+8bd90d82,North America,5,16.96,214.28,High,9
+e2c8c198,Middle East,9,1.44,127.06,Medium,9
+67acca2d,APAC,9,13.13,59.11,High,5
+e119216b,APAC,6,11.53,399.6,Medium,7
+815b1b73,Middle East,10,10.44,382.17,Medium,9
+65bac541,Middle East,10,6.2,241.07,Low,6
+15922c17,Middle East,5,16.92,193.53,High,9
+5b6a314e,Europe,3,1.92,467.05,High,6
+35731e64,Middle East,8,8.86,53.17,Low,2
+5f025abe,Middle East,9,3.33,314.58,Low,8
+21e02671,Europe,1,7.68,461.94,High,5
+7279cbd2,Middle East,9,9.97,314.1,Medium,3
+edc7d813,Europe,6,13.39,298.66,Medium,6
+bcfdc7d9,North America,7,11.86,122.89,Medium,2
+78d21c87,APAC,10,19.81,106.47,Low,4
+25ae92ab,Europe,10,5.4,348.14,Low,2
+a429dd6c,North America,4,7.29,480.44,High,4
+394574bc,APAC,1,8.37,396.4,Medium,1
+dc7abbc6,Middle East,7,7.83,87.89,Low,9
+194faa59,APAC,10,12.11,41.13,Medium,5
+ac5de2e0,North America,4,14.9,234.15,Low,1
+fc15dadc,APAC,7,10.81,498.66,High,7
+41685eaa,North America,2,9.68,364.42,High,9
+283ced11,Europe,1,8.43,370.07,High,8
+f0082d8f,APAC,7,5.01,369.21,High,1
+585dea25,Europe,9,15.0,100.64,High,6
+151cb98d,APAC,2,5.01,164.42,High,10
+1e97de27,North America,10,17.99,378.26,High,0
+4efbbb5b,APAC,2,14.25,176.87,Medium,10
+9b2248f4,Europe,4,7.93,376.75,Medium,3
+45c3ec1e,North America,4,13.12,367.98,Medium,1
+2cf992c2,North America,1,11.11,239.45,Low,3
+eeccdf62,Europe,6,10.88,26.6,Medium,2
+a161d511,North America,7,2.78,100.3,Low,4
+f96943eb,North America,6,19.52,300.09,Medium,0
+4d445afd,APAC,6,8.71,228.87,Low,10
+68f2daeb,Europe,5,13.32,113.34,High,1
+2bcdf9b2,Europe,4,10.26,328.03,Medium,10
+840a28d0,Europe,10,5.5,185.19,Low,0
+2842c4d6,APAC,8,7.44,91.48,Low,0
+a216ce97,APAC,5,11.34,468.7,Medium,1
+82e068d0,North America,1,15.14,149.67,Medium,5
+b1ca68fb,Europe,7,12.03,29.46,High,5
+ed3dd9ad,North America,9,18.02,240.41,Low,8
+42a9ac5c,APAC,10,11.51,326.86,Low,8
+7586151b,Middle East,7,15.84,94.25,Medium,6
+cc6c3e99,APAC,5,17.23,308.35,Low,8
+6f9e3704,APAC,2,10.21,384.33,High,4
+e59aa078,APAC,10,13.37,422.6,High,2
+3cecfbf8,APAC,10,2.57,271.16,Medium,1
+8411ecfd,Europe,2,19.4,287.46,Low,3
+faa849a9,APAC,10,17.74,259.99,Low,1
+c24aa2d7,APAC,10,19.45,108.86,Medium,4
+54a299cc,Europe,8,8.28,167.0,High,4
+3bd627c8,North America,3,6.82,123.76,Low,10
+62197fde,APAC,1,9.96,354.67,Medium,2
+06ace1b9,Middle East,6,12.75,168.66,High,5
+2dd0e3f9,APAC,2,19.31,197.76,Low,2
+70845121,North America,1,3.94,145.04,Low,5
+92bb6940,APAC,4,17.93,47.35,High,9
+4980ef9b,Middle East,3,5.16,378.59,Medium,6
+64c1c014,Europe,9,9.03,267.21,Low,5
+1f41be2e,APAC,4,4.29,53.11,Medium,3
+966640fe,North America,5,3.78,61.09,Low,6
+a5f4edb6,Middle East,4,14.62,322.08,High,8
+72cf511c,Europe,5,13.15,352.95,Low,7
+c6d45aa0,Europe,3,1.63,397.22,Medium,5
+0a75557f,APAC,5,13.35,419.19,Medium,0
+b0ab307b,North America,3,6.06,91.48,Medium,1
+3d674666,Middle East,6,7.88,314.76,High,9
+3a7b3f9f,Europe,2,4.4,302.21,Low,0
+df8d5578,North America,2,6.96,428.36,Low,3
+c5b4643f,North America,8,11.63,38.53,Low,10
+e9ea7486,Middle East,3,18.78,167.19,High,6
+71f9af13,North America,9,15.61,130.44,High,1
+726a283a,Middle East,4,15.18,25.23,Medium,1
+6deb0404,Middle East,8,18.95,387.01,Medium,7
+c2971158,Middle East,4,15.19,332.3,Low,1
+263083e8,APAC,8,3.07,93.16,High,8
+e6e9f55d,Europe,7,14.18,96.21,Low,7
+48c47890,Middle East,5,6.13,266.2,High,0
+84958411,APAC,10,14.95,401.73,High,4
+aa665f76,Middle East,5,14.07,372.67,Low,8
+442fb23c,APAC,10,11.97,423.76,Medium,5
+4bcf631a,APAC,8,19.6,153.41,Medium,0
+37caf7a3,Middle East,2,16.44,129.08,High,4
+944219c6,North America,2,6.07,313.88,Medium,2
+47e85af0,APAC,7,9.9,375.54,High,1
+19ca5ad2,Middle East,7,4.29,41.95,Medium,2
+e2afdea7,APAC,9,7.81,486.27,Medium,4
+e55f9e3d,North America,2,9.91,205.78,Medium,10
+b8cbe236,Middle East,7,5.6,104.72,Low,9
+cb11b9b7,APAC,8,19.71,466.44,High,1
+ee424f08,North America,6,8.07,293.91,Medium,6
+f06d9f6d,North America,4,12.12,116.11,Medium,7
+95ec11fb,North America,8,8.25,342.09,Medium,2
+ba3d60fb,Europe,9,9.61,231.05,High,4
+b395e192,Europe,10,10.28,264.53,Low,4
+134b8181,APAC,4,18.74,96.28,Medium,1
+5dd040a1,APAC,4,10.53,390.25,High,5
+2a713a3f,Middle East,10,11.23,324.34,Medium,5
+0e55b22d,North America,6,17.37,106.4,High,2
+ae1aabe6,North America,2,4.84,129.52,Low,1
+91e2f3a3,APAC,5,5.25,258.3,Low,7
+3dd92b6a,Middle East,3,9.8,188.33,Medium,4
+eaa68922,APAC,8,17.87,206.68,Medium,9
+f46069a4,Middle East,4,12.1,316.45,High,7
+a3cb580e,Europe,5,18.11,172.02,Medium,1
+9400515c,APAC,8,15.82,149.9,Medium,3
+1b3777b8,APAC,1,3.25,481.93,Low,2
+fde9b7cb,Middle East,5,13.27,149.93,High,9
+d38f2d9b,Middle East,9,9.86,461.94,Low,9
+699e9e5a,North America,4,7.67,187.87,High,1
+10512a7b,APAC,5,12.77,347.32,Low,0
+3fd84058,Middle East,3,18.29,288.01,High,6
+58ece71a,Middle East,1,17.33,269.42,High,9
+c9c28da1,North America,10,5.8,358.95,Low,7
+5744c142,APAC,5,8.15,140.79,Medium,3
+8c4320b7,APAC,10,17.3,44.8,High,4
+91542334,North America,6,3.41,110.37,High,5
+b16a81c5,APAC,6,3.18,174.62,High,10
+a3d02528,North America,8,3.23,38.35,High,5
+efe5e6bf,Europe,1,7.57,156.45,Medium,3
+4b6e3c12,North America,4,3.76,282.53,High,6
+6d1effd3,Middle East,6,14.72,368.03,High,10
+80b44098,APAC,3,16.05,481.12,High,3
+287672d3,Middle East,10,16.13,282.15,Medium,3
+cadd3577,APAC,8,19.36,175.22,Medium,8
+f5808f99,APAC,3,19.64,61.84,High,3
+6af464bc,Middle East,9,6.81,289.71,Medium,2
+f2e53ae9,Middle East,10,6.75,490.07,Low,9
+5628c1d3,Middle East,4,18.27,78.28,Low,0
+5ef9ca81,Europe,5,8.35,498.04,Low,8
+e725e7ba,Europe,3,13.92,60.57,Low,5
+1adbd822,North America,8,17.48,498.14,High,4
+6a80d8ed,APAC,10,6.64,178.57,Low,7
+86a1d516,Middle East,3,2.51,414.98,Medium,4
+38402cc4,Middle East,8,10.83,166.82,Low,10
+c02b0a1b,North America,10,11.38,382.89,Low,1
+259a1886,APAC,1,12.17,431.58,Low,0
+b24723be,Europe,2,5.42,132.14,Low,7
+aaa5cbe3,Europe,3,5.03,143.31,Low,3
+62c10b6b,Europe,8,17.42,174.01,Low,7
+0fc92316,North America,5,13.79,212.06,Medium,1
+89aef1ca,North America,9,17.26,62.58,Low,1
+ada627a6,Middle East,9,14.23,490.94,Medium,3
+00a640b6,Europe,3,11.66,245.33,Medium,0
+28b77387,Middle East,9,8.37,26.78,Low,5
+858c4bcc,North America,8,4.89,461.66,Low,4
+94463802,Middle East,7,14.64,120.73,Medium,9
+60d6a71b,Middle East,4,5.54,186.79,High,5
+1a017624,North America,4,10.23,122.47,Medium,6
+e7d000f3,APAC,9,5.69,129.18,Low,1
+f5f89407,Europe,6,2.57,183.38,High,8
+ed24c2b1,Europe,5,3.83,352.83,Medium,3
+62df63bd,Europe,4,11.46,485.17,High,5
+2094f2a3,Middle East,4,12.64,445.14,High,8
+a7ce9de1,APAC,8,15.24,230.45,Low,3
+1fa052ec,North America,4,7.67,484.76,Medium,10
+bbbe7e2d,Middle East,7,1.1,485.49,Low,6
+58bafdab,Middle East,9,19.57,467.45,Low,5
+98a530cb,APAC,5,19.82,207.85,Medium,9
+12b992f2,North America,3,15.31,494.98,Low,10
+130f7f56,APAC,2,18.16,187.27,High,2
+5b188663,Europe,1,17.3,311.24,Medium,8
+20460e33,APAC,3,2.06,113.14,Low,5
+acea2959,APAC,2,2.71,77.06,Medium,10
+b5881090,North America,3,1.85,472.93,Medium,1
+fae6151f,Middle East,3,7.74,353.02,Low,7
+9827acf7,APAC,7,12.78,342.35,Low,0
+e7dc7782,North America,8,4.54,313.51,High,0
+b852fd82,Europe,4,2.94,404.89,High,0
+94df7c21,Europe,8,8.13,223.81,Medium,4
+dfbc408a,Europe,10,10.9,304.56,High,3
+56ec8f64,Middle East,4,15.12,482.69,Low,3
+2f954249,Middle East,7,4.12,144.21,Low,7
+cf6b456d,North America,9,14.4,63.09,Low,9
+51738609,North America,4,5.6,27.03,High,5
+d48a78b3,North America,3,17.68,106.25,High,5
+6969e1bc,Europe,5,4.77,229.73,Medium,5
+6ecb7d17,Middle East,5,16.04,103.4,Medium,2
+7db23d1d,North America,3,9.94,144.75,High,5
+7b23651c,Middle East,7,6.25,404.87,High,0
+23797dcb,Middle East,8,14.38,325.99,Medium,4
+b71d9299,Middle East,5,16.6,278.87,Low,0
+e4731047,Middle East,2,19.6,356.34,Low,0
+ee1fe0ea,Middle East,8,10.2,223.69,Medium,4
+50619625,APAC,10,7.13,34.09,Medium,10
+78d1d06f,APAC,6,10.93,135.85,Medium,0
+c11dee6d,Europe,6,9.67,217.27,High,5
+d2678525,Europe,10,18.82,265.96,High,3
+af2355fd,North America,3,2.96,21.57,Low,3
+2d25b2d1,North America,5,7.08,339.4,Low,7
+1921452f,Europe,5,6.28,381.0,Medium,1
+c9492082,APAC,9,7.24,276.72,Medium,2
+09eb3357,North America,1,3.05,349.16,High,4
+dcdfdb03,Europe,7,7.63,401.55,Low,1
+6475e3cb,Middle East,10,9.88,61.86,Medium,6
+699afa54,Europe,4,7.78,412.18,Low,5
+8e15f260,North America,2,5.7,332.03,High,3
+0df39ec4,Middle East,1,8.41,277.53,Low,5
+8ed68259,Europe,10,7.82,143.53,Low,6
+e04a5525,Europe,4,9.39,31.24,Low,7
+732c73d0,North America,3,9.99,181.58,High,5
+0c1d23f7,Europe,6,12.27,283.28,Low,9
+c27fae01,North America,3,11.36,448.7,High,5
+2948aa22,Europe,5,10.11,392.47,Low,9
+2d06a725,Middle East,9,2.81,209.38,Medium,10
+f065c364,Europe,4,13.07,102.9,Low,7
+8fcaac18,APAC,4,7.19,74.46,Low,0
+349e01aa,Middle East,1,2.49,416.21,Low,3
+cf005fbf,APAC,7,18.08,333.1,High,0
+6b104326,APAC,7,8.78,420.43,Medium,5
+8f86996e,North America,7,2.0,211.18,High,2
+572b7a7f,Europe,10,11.62,482.16,Low,9
+b5feedf2,Europe,10,4.45,499.3,Low,2
+faf421c5,North America,3,13.7,45.66,High,1
+7a32bbe3,Europe,10,18.37,163.78,Low,4
+4f047123,Middle East,8,18.26,237.96,Low,5
+c1a7e416,Europe,2,15.96,430.85,High,3
+91d4812b,APAC,7,6.3,99.32,High,8
+d0a2e9a8,Europe,3,4.78,249.54,Medium,1
+753e1020,Middle East,2,13.39,258.84,Low,5
+0bcfa2d0,APAC,10,9.4,167.47,Medium,5
+d2e02536,North America,7,18.85,373.02,Low,1
+23800d2b,Europe,6,3.93,23.01,Low,1
+51d1e4b5,Europe,10,4.86,156.28,Medium,8
+0cb82f34,APAC,1,17.34,210.24,High,1
+7abb2e02,Europe,4,16.25,375.73,Medium,9
+c9eaf892,Europe,1,2.49,167.28,High,7
+50f0a374,Middle East,10,7.19,465.4,High,7
+8650ad46,North America,8,9.96,254.75,High,6
+fcd10611,North America,7,4.85,384.5,Medium,5
+eeabc811,Europe,3,16.46,206.7,Medium,8
+242c48c7,APAC,7,15.54,143.0,High,2
+078b048e,Europe,5,6.87,352.96,Medium,6
+a2b2924f,North America,7,2.94,230.21,High,2
+1e30c996,Europe,4,13.42,156.91,High,1
+b4f4c344,North America,2,3.69,292.45,Medium,5
+1771fba5,APAC,4,18.52,73.66,Low,3
+58ce5e8c,Middle East,3,5.78,257.71,Low,7
+66e97f75,Middle East,7,13.95,133.14,High,7
+0f58776c,Europe,6,3.2,245.82,High,2
+abc2f673,APAC,6,13.01,450.79,Medium,2
+99f41824,North America,1,13.46,360.21,High,4
+8cd36b65,North America,5,11.66,289.2,Medium,1
+c68db32c,North America,10,10.22,132.82,High,1
+1b9a88b0,Europe,5,11.3,148.22,Medium,1
+855bce86,APAC,10,7.25,463.36,High,3
+fab2535a,North America,5,10.01,273.87,Low,6
+f0c958e7,APAC,10,10.82,345.6,High,0
+9abbc13a,Middle East,6,3.63,97.01,Medium,9
+f29e9c75,APAC,4,1.36,240.0,High,9
+502006e0,Europe,9,16.65,87.78,Low,7
+ea63c494,Europe,8,6.07,373.62,Medium,9
+85be8e47,APAC,8,8.99,341.58,Medium,7
+d4de23fd,Middle East,5,13.24,32.57,Low,6
+4dce8354,Middle East,3,17.7,398.58,Low,2
+d9c14d61,APAC,7,8.62,414.84,Low,0
+d6a8cf96,Middle East,5,10.2,205.19,Medium,1
+2de871f3,Europe,10,7.05,35.48,High,6
+2403e287,Middle East,5,15.05,472.17,Medium,1
+f484afe7,APAC,8,18.32,277.62,Medium,10
+1e85087c,Middle East,4,19.53,208.86,Low,4
+93c5d189,Europe,7,15.14,148.38,Medium,0
+664afd0f,Middle East,5,12.11,257.88,High,8
+bcf0cab4,Europe,10,10.18,265.86,Low,6
+b440c3b4,APAC,7,16.56,334.32,Medium,0
+09d32167,Middle East,1,11.1,244.98,High,9
+c8bf6a5c,North America,6,4.78,169.7,Low,1
+94f7ddca,Middle East,1,11.4,205.98,Low,9
+16f99cb0,Europe,4,11.11,71.33,Medium,1
+2e6dd291,Europe,8,10.9,251.36,Medium,6
+54bd4328,APAC,5,2.67,68.7,Medium,5
+a022f92e,North America,7,5.2,322.44,High,4
+7e9be107,North America,7,15.51,444.17,High,5
+0f11e773,Europe,7,7.52,270.2,Medium,10
+f110ecbb,Europe,7,12.61,168.08,Low,6
+39105de5,APAC,5,10.42,48.53,Medium,1
+a2ba32cd,North America,3,12.61,401.48,Low,3
+61027960,North America,4,11.47,270.03,Low,5
+3bae2777,Middle East,1,13.84,204.93,Medium,10
+f2ad36b3,Middle East,7,12.38,323.28,High,2
+d280f6c0,Europe,1,8.46,114.95,High,1
+2e816a04,North America,2,9.65,221.86,Medium,9
+e0d3a1cb,Middle East,5,19.62,317.18,Medium,7
+c1c51822,APAC,1,5.99,96.68,High,8
+249b7f85,APAC,5,3.11,320.8,High,6
+31b33f6f,Europe,2,8.4,255.77,Low,4
+d86b1efb,APAC,7,14.8,143.39,Low,1
+3c3dbbab,APAC,6,1.64,302.27,High,5
+ba9d1387,Middle East,5,11.09,492.93,High,9
+97f3bb24,Middle East,8,19.19,385.3,Low,1
+cd05a160,Middle East,9,4.71,352.17,Low,3
+cb7673d5,North America,1,5.23,346.67,Medium,1
+1bab6f03,APAC,2,9.08,449.91,High,8
+eceb3cfc,Europe,1,4.38,314.2,High,0
+7f7963e1,Europe,2,16.51,356.35,Medium,4
+55700d37,North America,8,10.49,375.33,Low,2
+0273b630,Middle East,7,9.92,491.85,High,5
+f7f40514,APAC,1,13.52,104.17,High,3
+cfe5dcc9,Europe,5,11.01,69.91,High,1
+af82bbb3,Middle East,2,19.28,163.23,Medium,10
+dc51ad0b,Europe,3,11.76,105.71,High,6
+a648f829,Middle East,8,14.14,435.98,High,0
+502e842c,Middle East,2,15.29,488.4,High,8
+905d887f,North America,8,19.83,419.26,Low,7
+ca7a864c,North America,4,18.45,343.65,Medium,7
+89f69127,North America,2,1.03,485.23,High,3
+7b09606b,Middle East,3,3.7,366.65,Medium,1
+4a122323,Europe,6,8.36,347.43,High,7
+db6cbf82,North America,4,19.81,381.84,High,8
+a854a300,Europe,10,17.29,490.43,High,2
+2daf4f08,APAC,9,10.73,487.04,Low,5
+dd4c59c4,Europe,2,5.08,397.38,Low,3
+a220ac21,North America,7,1.95,216.35,Medium,5
+8a4c0878,Europe,7,19.0,183.64,Medium,3
+e1c91649,Middle East,3,6.94,348.91,Medium,5
+dea08cba,APAC,1,3.12,393.76,High,3
+f31cd74f,North America,3,9.89,440.92,Low,8
+3605ddc5,Middle East,4,8.18,340.8,Medium,5
+190ec1ea,Middle East,6,18.01,299.42,High,0
+1ad78a90,Middle East,9,4.03,95.12,High,10
+e9a0b91c,Europe,1,4.26,401.9,Low,6
+f098cd11,Middle East,2,8.79,381.97,Low,8
+831e7b51,Middle East,5,4.32,181.18,Low,10
+35ae0122,Europe,7,3.52,376.94,Medium,1
+5cfb1b2b,APAC,8,18.24,286.85,High,7
+71f96836,Middle East,5,15.4,130.77,Medium,0
+7cc59e51,Europe,3,3.03,124.68,High,7
+6489acfc,APAC,7,4.49,115.46,Low,10
+cc0041bc,Europe,1,10.4,281.49,High,9
+7f457623,APAC,3,15.83,382.08,Medium,7
+1da5ec58,Europe,9,18.02,122.27,Low,0
+258aef9b,Europe,1,14.12,79.36,Medium,5
+c494deda,Europe,1,15.61,231.11,High,2
+471ddc33,Europe,1,3.75,467.24,High,8
+2712b979,APAC,5,13.96,414.0,Low,1
+9e092bb2,Europe,7,4.98,207.19,Low,7
+754c0424,North America,8,8.07,405.95,High,2
+d0054bb3,APAC,5,17.05,495.3,Medium,1
+3ed88dee,Middle East,3,17.01,281.49,Medium,2
+88f099a9,APAC,8,15.66,295.84,High,8
+92428591,APAC,2,13.84,459.27,High,4
+084dc31a,APAC,6,4.5,25.73,Medium,0
+110dfff3,North America,8,9.59,339.05,High,0
+a6fbc893,Middle East,9,12.74,114.41,High,5
+6689f10a,APAC,7,15.81,255.58,Medium,2
+74716d7d,Middle East,6,4.94,66.94,Low,2
+b03f7246,Middle East,1,17.15,457.27,High,7
+302296b5,North America,6,7.74,428.85,High,7
+bf535581,North America,4,4.25,184.32,Low,2
+9a22aa16,Europe,4,18.47,249.43,Low,10
+5f658e41,North America,2,1.74,194.93,Medium,1
+ef5739e4,North America,9,2.43,255.8,Medium,2
+dbb3dbe4,North America,2,13.29,196.67,Low,7
+cf491508,Middle East,8,7.07,247.73,Medium,6
+99a71429,APAC,10,5.98,51.87,High,10
+9bb248bf,Middle East,8,11.58,292.45,Medium,9
+dd1a8065,North America,3,11.78,350.26,Medium,8
+d4b4339d,Middle East,2,11.02,53.08,Medium,10
+c9178026,APAC,7,6.64,476.69,Low,0
+26ddaa5a,Middle East,8,16.18,98.37,High,5
+ed67d617,APAC,2,2.36,208.18,High,10
+0f683a4c,North America,4,2.46,299.38,Medium,0
+638f2645,Middle East,3,5.09,190.68,Low,5
+5df73276,Europe,6,4.05,168.91,High,4
+fee90642,APAC,10,13.66,475.38,Medium,5
+56ade241,Middle East,7,14.43,336.43,Low,10
+19073e1f,Europe,1,14.97,325.56,Medium,4
+baf45263,Europe,6,4.86,176.14,Medium,3
+a3f64195,Europe,10,10.91,368.37,Medium,7
+c6a3e053,Europe,3,10.79,87.56,Low,5
+eb189c6b,Europe,4,3.72,450.17,High,6
+813216e0,North America,9,5.23,374.79,Low,6
+0bd26e09,North America,4,14.04,149.71,Low,3
+2b77ddb9,North America,8,2.02,354.09,High,5
+76c5d6e0,North America,9,4.25,416.87,High,4
+49dd4dac,Europe,5,12.9,85.77,High,10
+bcb7ed08,Middle East,9,13.4,21.79,Low,10
+abe260de,APAC,2,13.11,46.38,Medium,6
+6d8c2e6d,Middle East,3,16.88,122.74,High,0
+ba37b9da,Europe,5,10.27,334.49,Medium,5
+d25322aa,North America,4,14.82,243.45,High,0
+e437b84d,North America,1,11.64,23.29,Medium,5
+865021d1,Middle East,2,5.68,156.32,High,10
+2297c5ad,Middle East,9,16.97,474.66,Low,2
+68d604c2,Europe,9,7.32,347.45,Low,3
+5f639567,APAC,9,18.88,379.3,High,7
+6b369337,APAC,6,5.49,284.93,Medium,1
+7e969332,Middle East,9,10.98,477.63,Medium,0
+1ce69fb1,North America,7,6.82,160.01,High,1
+e8ca8e23,APAC,3,6.52,87.9,High,10
+cfb5d7b2,Middle East,1,8.05,482.35,High,8
+12828cf3,APAC,10,5.2,173.58,Low,3
+a48f33e7,North America,6,14.54,261.64,Medium,1
+4c6eaab3,North America,1,11.4,452.91,High,5
+52c1c545,Middle East,7,4.08,109.13,High,1
+0a7ae694,North America,9,11.36,226.6,Low,4
+16327d33,Europe,5,1.28,203.4,Medium,9
+b6cc1e29,Middle East,1,2.15,308.71,Low,6
+b05e10bd,Middle East,9,5.66,332.07,High,0
+8565da33,APAC,2,2.33,444.67,Medium,9
+d7b2ba66,North America,6,2.88,162.78,Low,8
+9412db33,APAC,8,18.5,401.53,High,0
+b74bb079,APAC,8,11.57,431.12,High,8
+68691976,Middle East,10,19.36,329.32,Medium,1
+652aec31,North America,1,11.93,261.21,High,3
+ac7a4fb8,Middle East,6,9.72,143.39,High,6
+4aeab2c3,Middle East,9,5.41,476.49,Medium,5
+5f89bd0c,APAC,9,1.09,385.9,Low,8
+1e2fbac2,North America,6,18.29,477.23,Low,1
+84fecd41,Europe,7,9.14,40.66,High,1
+d038c4bd,Middle East,9,7.48,384.61,Low,0
+d5059c92,Europe,10,13.41,49.37,Low,1
+32d5f191,North America,5,10.73,339.67,High,6
+57532e71,APAC,9,4.0,47.99,High,3
+c2afd304,Middle East,9,2.79,497.3,Medium,0
+706e35bb,APAC,3,1.49,268.25,Medium,4
+dadaae4d,APAC,8,3.51,418.36,Medium,6
+6a782f37,Europe,2,18.35,355.75,Low,1
+64818e3a,APAC,3,9.04,189.69,Medium,8
+1f7069ef,North America,10,4.74,257.0,High,10
+4ff3707c,Europe,2,1.91,411.66,Low,3
+df12a3e8,Europe,7,19.01,144.89,Low,3
+2a1dff2f,Europe,5,13.13,420.93,High,9
+6e5fc27d,North America,10,6.79,46.54,High,2
+81daabc5,Europe,1,8.14,171.14,Medium,2
+c11ee189,APAC,1,7.72,34.7,Low,1
+ab9dc99e,North America,7,10.31,59.7,High,5
+c1bb84f1,APAC,8,18.93,353.76,Medium,10
+678d17fe,Europe,3,9.87,252.83,Low,10
+487ba780,Middle East,8,1.16,154.46,High,1
+7eb21d92,Middle East,10,3.32,486.07,Medium,0
+949de027,APAC,3,17.98,237.1,Medium,4
+bdd0e380,Middle East,9,16.5,54.35,Medium,5
+8c1aeae8,Europe,2,7.95,424.96,Medium,3
+21a7bc78,Europe,1,19.8,45.87,High,3
+e9c6bd08,APAC,4,14.15,98.83,Medium,6
+b09efb0c,North America,1,16.37,368.64,High,4
+18cec4f8,North America,6,8.08,290.01,High,6
+9dd64413,APAC,7,6.01,336.31,Low,10
+335e69c3,Europe,9,17.4,44.96,High,3
+b2cdc0c4,Middle East,6,6.49,125.29,Medium,3
+24198526,Middle East,7,10.15,447.97,High,0
+f85d79cb,North America,2,17.38,87.03,High,2
+645c01c6,Middle East,10,12.29,56.23,High,2
+d537c175,North America,3,8.36,112.11,Low,0
+818996e8,North America,6,16.34,270.51,Medium,0
+4c439634,Middle East,8,8.57,349.14,High,3
+7fb6fab4,North America,4,18.0,345.69,Low,3
+3764cde8,North America,9,12.29,171.95,High,1
+a0138ad0,Europe,6,5.41,270.99,Low,2
+1d708306,North America,8,18.32,302.78,High,1
+fd505bff,APAC,6,4.09,172.75,High,0
+d29a3d67,Middle East,7,19.58,241.81,Medium,10
+0c0acf58,North America,3,10.7,270.1,Low,8
+20771870,APAC,8,17.35,418.69,Low,8
+e008692f,Middle East,4,12.63,164.17,High,5
+63664e07,Europe,1,16.23,496.88,Medium,8
+cad99195,Middle East,6,13.19,374.86,Low,8
+fa85f46e,Europe,4,12.81,479.12,Medium,3
+3bfd7c74,Europe,5,8.16,172.21,High,5
+d4464ce9,APAC,4,11.56,320.86,High,7
+76531264,North America,4,8.01,248.51,Low,8
+2703d6c6,APAC,9,9.41,195.92,High,2
+abe01b47,Europe,6,19.31,324.68,Low,7
+306b64b1,Middle East,8,5.45,199.75,Low,5
+aff55610,APAC,6,4.26,240.19,Medium,3
+6f17eee6,North America,6,7.65,310.07,Low,1
+5cf8ca19,North America,1,4.34,216.2,High,2
+86e3e456,Europe,1,6.93,261.35,Low,3
+e114dec4,North America,3,9.22,119.08,Medium,4
+182ad8f1,Middle East,4,10.88,34.61,Low,3
+d8f844bd,Europe,7,4.02,459.61,Low,4
+1f17f0e2,North America,2,14.94,167.96,High,1
+acb0e00b,Middle East,8,12.33,401.94,High,10
+83caa822,APAC,5,18.48,432.87,Low,0
+7e838224,Middle East,5,2.55,75.45,Medium,6
+208ceed6,Europe,2,9.49,283.7,Low,0
+791eba9d,APAC,9,16.8,39.53,High,9
+eb932e82,APAC,10,4.53,72.08,High,10
+d66207ac,Middle East,9,6.66,61.42,Low,6
+a7d199fb,Middle East,7,1.3,162.54,High,4
+f38fadab,Europe,2,14.96,85.25,Low,9
+6b016d70,APAC,5,18.32,248.82,Low,1
+842820d6,Europe,10,7.14,360.94,Low,8
+82aa80ed,Middle East,3,11.77,222.13,Medium,5
+22d3fb05,Europe,4,13.21,230.09,Low,1
+e8633558,Europe,8,17.54,277.29,Medium,4
+b7cbf2eb,Middle East,3,8.96,193.94,High,7
+470118bf,Europe,8,14.01,469.23,Low,8
+08d863f9,North America,9,8.52,121.74,Medium,5
+4406fa84,Middle East,3,12.7,303.97,High,5
+1e48e2e8,Europe,2,6.5,73.26,Medium,6
+17acb983,APAC,10,10.44,130.01,High,0
+aec8f95a,Middle East,7,8.39,397.17,High,4
+bad747b1,APAC,8,9.46,494.94,Medium,5
+48dd3384,North America,8,3.64,62.15,High,6
+07d9f1dd,APAC,1,9.47,154.78,Low,8
+17f6cf34,Middle East,5,11.94,36.49,Low,6
+5d571a51,North America,4,17.23,337.86,Low,0
+c8c8ea21,APAC,7,3.33,99.13,High,8
+ececcdff,North America,6,11.09,136.64,Low,10
+6a5df1f3,Europe,4,19.0,390.5,High,2
+377b612b,North America,9,15.27,432.89,Medium,3
+5bb782ee,APAC,3,13.38,127.97,Low,4
+37e74acd,North America,5,3.67,22.05,Low,7
+f8d8e0eb,Middle East,9,19.5,163.02,Medium,9
+fe0d165e,Middle East,2,17.38,80.28,High,6
+265c6b21,APAC,5,4.26,176.78,High,8
+0849f457,Europe,10,5.08,132.02,Medium,1
+8e22fb53,Europe,10,10.78,429.07,Medium,0
+252a31c5,APAC,8,2.8,246.16,High,5
+ef3d641d,Middle East,6,19.93,89.1,Medium,1
+1b1f31e8,North America,9,15.75,425.44,Low,3
+a08aafbd,North America,9,18.35,329.06,Medium,1
+450dc0af,North America,9,7.77,493.6,Low,7
+e9f9f7be,Middle East,10,7.6,384.93,Medium,6
+e27126a7,Europe,3,1.46,153.58,High,9
+18bcb5f3,North America,2,10.03,116.6,Low,4
+3a910ef8,Europe,6,13.82,205.52,Medium,5
+94902dc9,APAC,2,5.82,54.49,Medium,7
+d14e4889,Middle East,4,12.11,159.28,Medium,9
+d5bbf838,North America,4,7.72,119.41,Medium,0
+88a49b49,North America,9,4.98,209.78,Low,10
+f45b518a,North America,9,6.7,367.25,Medium,5
+332dc3df,North America,6,13.05,395.53,Medium,3
+4ba9d0c9,Middle East,5,15.02,294.57,Low,8
+8ad227de,Europe,6,2.5,163.29,Low,10
+1966d146,Middle East,2,19.92,260.49,Medium,2
+b9ac2c32,Europe,1,11.52,96.48,Medium,9
+0721f5bc,North America,9,16.13,61.22,High,0
+70557274,APAC,3,2.03,283.1,Medium,3
+dbdb3dfc,North America,2,3.95,148.19,Low,3
+0391bcab,Middle East,10,14.02,50.09,High,5
+465d1721,APAC,3,17.05,413.34,Medium,6
+8884b84b,APAC,1,2.87,189.54,High,2
+3f81c8ec,North America,6,19.04,394.01,Low,6
+28f8a051,Europe,9,1.1,352.68,High,1
+9c9713ff,APAC,3,15.96,76.61,High,5
+220525cf,Middle East,1,6.9,228.36,High,2
+c9213a43,Europe,6,11.26,159.48,High,8
+0caec43e,APAC,3,8.21,258.26,High,7
+7ad66c1f,APAC,7,16.11,317.1,Low,10
+ba64b37e,North America,5,16.17,250.22,Medium,1
+57973aad,North America,4,1.48,52.11,Medium,6
+866ba08a,APAC,5,11.37,57.22,Medium,0
+c91a365c,APAC,10,15.95,437.67,Medium,0
+1e4d7fce,APAC,8,18.43,458.4,High,8
+3f7e8320,Europe,9,1.33,58.91,Low,7
+d0fed039,APAC,4,11.52,245.91,Medium,10
+187c8fdb,APAC,1,17.97,206.74,High,0
+14c0068c,Europe,7,15.03,463.85,Medium,0
+c643ed3d,Middle East,10,14.23,114.54,Medium,2
+919c5dab,Europe,1,2.94,372.24,Medium,3
+be67bb07,APAC,6,4.09,98.4,High,8
+243f1893,Middle East,3,13.61,452.66,Medium,10
+dac45ec3,Europe,1,12.6,498.69,Medium,6
+271d77ab,North America,7,19.38,33.25,Low,5
+8911e66d,Middle East,6,2.74,210.03,Medium,5
+33cb6701,Europe,6,3.52,227.76,High,5
+aa4349e3,North America,4,3.15,115.89,Medium,5
+9546e9c0,Europe,3,8.14,205.26,Medium,10
+2bdf3593,APAC,4,17.95,149.13,High,2
+1352b628,North America,10,6.98,337.21,High,6
+e3ab60d1,Middle East,9,19.08,39.49,Medium,4
+9891ba02,North America,2,5.56,182.66,Medium,2
+e5931251,Middle East,5,12.5,428.25,High,3
+c9ecb04d,North America,8,16.03,199.81,High,1
+f2cdc4d6,North America,3,16.84,340.64,Medium,8
+a2ed0cf5,APAC,8,18.78,127.71,Medium,10
+2f588dd1,Middle East,10,8.59,368.93,Low,3
+0f0ab746,North America,8,2.14,390.96,High,2
+5fdce34e,APAC,4,17.63,204.78,Medium,8
+3e173697,Middle East,1,1.4,302.23,Low,5
+cf5c8748,Europe,9,15.15,413.34,Medium,5
+4def812f,Europe,1,4.56,286.16,High,3
+4ceae587,Middle East,3,6.16,207.92,Medium,2
+a0ee1e28,North America,5,7.55,72.67,High,9
+1c14b87a,Middle East,8,19.64,25.73,Medium,2
+cc53d08c,APAC,5,10.66,253.93,Low,1
+526f57b2,Europe,5,19.12,296.77,High,3
+e6212bcd,Europe,5,5.37,269.55,Medium,8
+4130eab3,APAC,3,5.98,156.63,Low,4
+457a21e2,APAC,3,16.42,112.28,Low,8
+faa1ee4d,North America,2,14.29,342.69,Low,7
+5c0d375a,North America,1,2.49,162.85,Medium,7
+9b8f7631,Europe,10,12.48,249.58,Low,8
+e6cc3ad7,Europe,1,4.86,410.54,High,8
+25b7ea0d,North America,3,8.52,219.95,Low,6
+a705acda,North America,6,11.95,53.74,Low,5
+15ec25bb,Middle East,4,12.62,121.69,Low,5
+0fad0398,North America,6,14.82,98.38,High,0
+373d4b3a,North America,1,8.1,454.11,High,0
+7f303704,Europe,6,6.48,351.1,High,10
+f956530f,North America,3,19.38,164.65,Medium,0
+1c7624f2,APAC,9,3.53,229.1,Low,9
+21d72da3,APAC,9,2.99,144.19,Medium,9
+65ec1b91,North America,2,2.62,135.28,Low,9
+a27080a2,APAC,10,13.17,430.75,High,2
+5365f3b5,Middle East,10,1.79,450.72,Low,5
+4aad7627,Middle East,1,4.13,346.92,High,3
+5e166a0d,Europe,8,9.32,84.44,Medium,10
+1b3c9509,Europe,3,2.36,345.9,Low,5
+1946416c,Middle East,3,6.83,59.87,High,5
+a243c4fb,APAC,5,10.93,313.13,Medium,7
+3fce7b17,Europe,2,8.37,474.67,High,3
+7566bb95,APAC,2,1.99,372.64,Medium,8
+fa55a032,APAC,10,3.36,386.11,Medium,6
+f693c827,Middle East,3,17.06,105.71,Medium,0
+3e10c550,Middle East,10,3.17,23.36,Low,10
+6dc6ad53,Europe,6,6.94,41.43,Low,3
+0d8ecd41,APAC,1,4.68,429.49,Low,8
+fe6543b7,Europe,9,14.57,238.91,Medium,10
+374aa6a5,Europe,2,16.12,295.53,Medium,5
+03d519a3,Europe,3,18.87,244.37,Medium,6
+5824c402,APAC,1,1.75,141.82,Medium,7
+852d56fa,Europe,3,1.32,37.17,High,1
+433b9561,North America,6,4.75,475.95,High,10
+61d68e7b,North America,2,5.55,266.71,Medium,1
+5c43df79,North America,2,4.64,447.47,High,7
+8452ea78,APAC,7,3.85,379.32,Low,10
+ce679a5d,APAC,1,15.64,221.35,Medium,0
+0c48e847,North America,7,14.87,295.22,High,3
+6b98d672,Middle East,10,8.59,338.87,Medium,4
+1a8fbfdd,APAC,1,9.51,350.23,Low,2
+09998a72,APAC,6,18.75,417.34,Medium,5
+066ce19b,North America,2,15.38,378.05,Medium,1
+c1ebf0eb,Middle East,10,15.58,465.6,Low,6
+ed2d8dc7,APAC,8,19.32,379.04,Low,6
+b26fd4e6,APAC,7,11.73,217.8,Medium,10
+c2b0866d,APAC,3,18.07,365.97,Low,3
+470826bf,Europe,2,15.54,395.61,Low,2
+9cd5703c,APAC,2,9.03,230.74,High,2
+f8f8f02c,North America,10,17.86,93.61,High,4
+bae2509f,North America,7,6.65,290.04,Low,10
+6daffc7b,North America,4,4.06,373.46,Medium,1
+f01e0e80,North America,10,3.2,489.44,High,4
+65b1784f,Europe,5,17.51,141.18,High,4
+997aad86,North America,3,15.08,403.23,High,9
+c8b579dc,North America,7,3.55,372.15,High,1
+40ee76a4,North America,10,1.29,194.11,High,0
+aad1c5f9,APAC,1,4.35,35.47,Medium,6
+f8e53571,Europe,4,19.37,310.39,High,10
+7b90093f,Middle East,6,4.46,487.9,Low,9
+7b61fdfb,Europe,5,7.56,327.81,High,5
+dbdea767,APAC,1,9.09,291.52,Low,7
+8bde4a95,APAC,2,16.72,184.08,High,2
+143eb7f9,North America,3,11.75,384.35,High,8
+9b212234,Middle East,3,18.95,150.97,Medium,6
+d54d7d90,North America,7,16.18,174.36,Medium,3
+9bb6e81b,Middle East,8,15.54,180.19,Medium,4
+17c064de,Europe,4,7.69,118.24,Medium,9
+8e29d08d,Europe,1,13.78,301.04,High,0
+6eb1601e,Europe,1,16.53,187.16,Low,8
+80c78c1f,Europe,8,8.7,374.45,Low,4
+862c6dd1,Europe,4,1.97,251.45,High,3
+93699712,North America,9,14.1,51.42,High,1
+5ff8b4ea,APAC,7,2.27,36.15,Medium,8
+e5578225,Europe,5,14.64,376.82,High,1
+fc0ac2fb,APAC,3,10.66,148.94,Low,1
+4d76f871,Europe,10,3.93,222.88,High,0
+e29b7bdb,Middle East,1,3.54,496.4,Low,0
+f7d49b6b,Middle East,7,1.62,188.13,Low,2
+55bc5f02,Middle East,5,5.69,427.14,Low,6
+f4287a69,Europe,5,16.42,355.82,Low,5
+7d96ef25,Europe,10,7.58,131.68,Low,10
+9c0cce36,North America,9,13.18,160.47,Medium,2
+36d93ab1,APAC,8,16.53,37.67,Medium,3
+efde05b6,Middle East,8,8.72,132.27,Medium,4
+fc3faddc,North America,7,11.1,329.12,Medium,10
+6d44a239,Europe,10,18.82,77.24,Low,9
+ba85aee5,North America,4,5.1,262.53,Low,5
+9f8c5668,Middle East,3,6.21,115.32,Low,10
+293fd95f,APAC,4,15.31,364.16,Medium,9
+8bbd7388,APAC,9,7.67,320.67,High,4
+b56c3dc0,Europe,5,7.8,468.9,Medium,2
+b55c4745,Europe,6,18.16,280.42,High,6
+ca2f1173,Middle East,3,15.03,408.93,High,5

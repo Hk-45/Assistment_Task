@@ -1,0 +1,1001 @@
+ProductID,Region,StockLevel,ReorderPoint,LeadTime
+117b4e21,North America,467,84,29
+9f525026,APAC,300,129,20
+8392bfec,Middle East,296,141,1
+eb919a6b,North America,415,95,1
+65461e5d,Middle East,172,180,1
+3affcc12,Middle East,80,72,4
+1a9abe76,Middle East,171,78,10
+d205a18b,Middle East,139,54,5
+4ccacb9e,Europe,211,152,24
+f9fc54ab,Europe,82,87,15
+7a4b793a,APAC,416,169,16
+1a9abe76,Europe,353,161,21
+9a08a8a3,Middle East,314,154,5
+65461e5d,APAC,91,72,17
+ca436053,North America,150,146,1
+1a9abe76,APAC,272,52,13
+2365e26a,Europe,45,167,20
+99bf3ecc,Middle East,410,127,30
+e350aa24,Europe,75,101,17
+e212bf29,Europe,322,50,29
+62b6c5be,APAC,376,171,19
+bdb5a041,Europe,444,113,8
+5dfef1e7,Middle East,48,89,5
+1a9abe76,North America,451,166,22
+9eaba675,Middle East,143,127,21
+9385d0d7,APAC,50,108,3
+9cb435f7,Middle East,281,74,10
+e6aaf121,Middle East,52,99,25
+61ae0312,Middle East,178,120,25
+ee1ff4bc,Middle East,77,142,10
+1e0d0032,North America,221,91,30
+b35b9760,Middle East,375,137,3
+e6f25aa2,Middle East,78,133,12
+1a9abe76,North America,13,125,12
+e1652a7d,APAC,88,86,8
+3f58bd66,Europe,367,112,1
+ebf8752d,APAC,424,70,21
+2a756b5e,APAC,163,162,21
+f172ba14,Europe,221,186,27
+e212bf29,North America,99,158,26
+9d9059d3,Europe,6,50,7
+50047f70,North America,316,149,5
+3d00078c,APAC,454,180,3
+850908a6,Middle East,117,98,4
+5dfef1e7,Europe,94,173,11
+5bfd3767,North America,457,65,1
+4ccacb9e,APAC,458,159,20
+5c54e280,North America,17,200,17
+de4f44fa,Europe,167,179,9
+475461e4,Europe,298,172,25
+298b1972,Europe,78,127,15
+5f347904,Middle East,424,54,18
+4602aa8e,Europe,78,55,2
+71d391fa,Middle East,211,111,6
+4ccacb9e,Europe,51,157,22
+938d54c8,APAC,489,74,22
+dab5a7df,Europe,168,132,20
+190b4c52,APAC,442,77,24
+1c1f7cd1,Europe,404,182,29
+0f276c83,Europe,342,198,12
+19885574,Europe,385,126,19
+362e1c61,North America,415,166,21
+05938190,Middle East,363,143,12
+ca436053,Middle East,127,154,3
+6a15a8ba,Middle East,126,137,4
+62b6c5be,Europe,415,159,23
+9eaba675,APAC,400,174,19
+c41758b1,North America,282,194,25
+18c6c97f,APAC,34,51,10
+858c451a,Europe,70,71,24
+ebf8752d,Middle East,201,62,29
+bb405c9c,Middle East,184,178,24
+a272fc07,Middle East,91,191,7
+5d8eb231,Middle East,169,90,10
+ee1dd005,Middle East,271,92,11
+501afd90,Middle East,2,151,15
+90358d80,Middle East,463,88,23
+5b2173d2,North America,165,94,19
+e44ee390,Middle East,0,146,9
+0746e034,APAC,251,153,1
+413e92eb,Europe,280,133,28
+a272fc07,North America,314,142,21
+f172ba14,Middle East,225,119,26
+e6f25aa2,North America,286,194,28
+ee1dd005,North America,93,178,23
+18c6c97f,Middle East,205,198,12
+939d8bf2,North America,60,121,24
+938d54c8,Middle East,74,91,19
+c9c42072,North America,0,61,21
+fd59ae00,APAC,399,120,2
+71d783a4,Europe,373,95,26
+413e92eb,Europe,327,192,10
+0746e034,Europe,3,166,10
+0746e034,APAC,351,147,25
+b819fa33,Middle East,301,166,4
+9cb435f7,Middle East,164,200,13
+db313e16,APAC,244,71,10
+69fcac96,Europe,289,81,24
+53585ee1,APAC,138,72,2
+bce48a31,APAC,332,199,20
+908a7ef1,Europe,455,59,3
+9385d0d7,Europe,204,160,9
+368f3f3e,North America,124,175,8
+d205a18b,Europe,356,187,19
+048830b8,Middle East,254,64,28
+9e3c7f65,Middle East,170,178,12
+6a15a8ba,Middle East,180,111,28
+3affcc12,Europe,399,174,23
+9e3c7f65,North America,215,155,5
+9498ae67,Middle East,318,116,19
+9e3c7f65,North America,219,64,17
+bb56826d,APAC,309,73,28
+662017bf,Middle East,137,179,15
+35d00fd3,Europe,57,131,11
+b35b9760,APAC,500,124,6
+c85584b6,Europe,100,130,1
+00f4dfd8,Europe,135,114,12
+b35b9760,Europe,176,134,30
+190b4c52,North America,217,146,1
+f532e6c1,Europe,57,83,3
+0f276c83,North America,97,92,3
+90358d80,Middle East,493,105,30
+77d80fd7,Europe,269,80,21
+e350aa24,North America,91,177,27
+bb405c9c,Middle East,84,126,21
+5311369c,Middle East,248,114,13
+3d00078c,APAC,158,119,8
+50047f70,Europe,344,171,13
+048830b8,North America,251,149,15
+c98332f4,Europe,100,135,12
+bb56826d,Europe,355,78,17
+61ec4b6b,APAC,139,106,4
+b819fa33,Europe,318,83,27
+ebf8752d,Middle East,255,60,8
+d30c4bea,APAC,231,177,19
+8be56c0a,Middle East,162,115,11
+610b83e7,North America,94,155,7
+0746e034,North America,254,152,15
+2359c6da,Middle East,282,112,29
+95ddaf99,APAC,242,73,29
+90261dd9,APAC,9,95,10
+e44ee390,Middle East,265,172,20
+8b78cbe4,North America,283,95,1
+fbece580,APAC,460,181,5
+71d391fa,APAC,20,165,20
+e44ee390,APAC,393,124,4
+0b9e7c37,North America,155,123,23
+62b6c5be,Middle East,33,183,2
+e6aaf121,Europe,94,129,1
+353cff54,Europe,458,188,1
+dbcebfe0,Europe,66,63,29
+1bd63804,North America,51,133,10
+5dfef1e7,North America,284,151,4
+fcede01b,APAC,308,98,1
+413e92eb,Europe,116,183,5
+481499a4,APAC,254,118,8
+1202fec7,APAC,339,102,17
+f172ba14,North America,261,65,4
+af071a53,North America,407,105,4
+33930178,Middle East,202,66,23
+447fcac8,Middle East,79,138,22
+36a35545,APAC,434,199,22
+36da3048,Middle East,349,146,30
+1c1f7cd1,Europe,226,176,25
+95ddaf99,North America,46,103,16
+bdb5a041,Europe,175,184,8
+dbcebfe0,Europe,253,104,17
+3517ebaa,North America,176,133,23
+908a7ef1,APAC,107,167,11
+9498ae67,Middle East,454,82,18
+6e3e0a65,APAC,392,89,9
+1c1f7cd1,Middle East,313,114,24
+0e344323,Middle East,39,146,14
+938d54c8,APAC,342,122,6
+99bf3ecc,Middle East,136,120,20
+e1652a7d,Middle East,116,75,9
+d3996df4,Middle East,445,170,6
+65c8c6ec,North America,254,161,13
+0579b23f,APAC,435,144,13
+df71fe10,APAC,411,90,29
+f9fc54ab,North America,454,87,22
+c9c42072,North America,319,115,8
+3517ebaa,APAC,92,161,21
+ca70367d,Middle East,79,122,18
+71d783a4,Middle East,460,78,8
+b5406b55,APAC,475,196,21
+77d80fd7,Europe,123,90,24
+71d783a4,North America,104,190,28
+368f3f3e,Middle East,77,127,9
+f1b13c47,Middle East,267,141,6
+e1652a7d,North America,464,139,17
+62b6c5be,North America,70,94,1
+d205a18b,North America,462,104,9
+62b6c5be,APAC,136,61,15
+298b1972,Middle East,108,139,10
+a77ca74b,APAC,194,112,30
+00f4dfd8,Europe,21,58,24
+05938190,APAC,135,184,4
+b17c6708,North America,328,126,16
+325de8c6,North America,148,137,21
+a4c3d0e9,Middle East,145,102,2
+a77ca74b,APAC,202,145,6
+09f79ff4,Middle East,102,67,22
+048830b8,Europe,309,110,20
+1e0d0032,North America,332,151,13
+f65606ea,Europe,307,154,13
+938d54c8,Europe,322,125,22
+0579b23f,Europe,54,144,17
+1ccbacc0,APAC,488,69,4
+8e53a344,Europe,393,83,5
+bdb5a041,Europe,431,96,17
+854b4ef1,North America,97,150,17
+95ddaf99,Europe,345,108,5
+8f4edd14,Europe,474,108,7
+e34055cb,Europe,273,176,21
+75d03936,APAC,158,107,3
+36105ec3,APAC,2,100,19
+b819fa33,Europe,109,80,29
+353cff54,APAC,247,149,2
+662017bf,Europe,218,197,23
+33930178,Europe,169,96,22
+071a3b70,North America,333,154,30
+71d783a4,Europe,465,120,28
+1d221cf1,Europe,260,65,4
+df71fe10,Middle East,454,59,13
+938d54c8,Middle East,169,195,15
+e93d62d2,North America,350,161,29
+5f2221da,North America,72,128,26
+5c54e280,APAC,230,58,10
+9cb435f7,APAC,4,126,8
+610b83e7,North America,135,152,19
+50047f70,Middle East,493,183,14
+0579b23f,Middle East,432,93,28
+f172ba14,Middle East,318,135,4
+e44ee390,APAC,75,167,30
+fcede01b,North America,85,157,1
+44abcb5b,APAC,124,59,20
+368f3f3e,APAC,431,123,16
+9bb49951,North America,359,154,23
+13da12ee,North America,392,162,6
+62b6c5be,North America,109,171,9
+8be56c0a,Europe,258,78,19
+899adf07,APAC,406,108,13
+43afa206,APAC,228,153,7
+662017bf,APAC,450,139,22
+1202fec7,North America,398,121,14
+6955d0c0,APAC,272,103,26
+df71fe10,Middle East,476,103,19
+23eee828,Europe,45,121,5
+854b4ef1,APAC,486,60,9
+61ec4b6b,Europe,249,70,23
+e350aa24,North America,18,138,11
+e30c938e,Europe,383,116,7
+e0f0f563,Middle East,0,160,2
+fd59ae00,Middle East,178,135,22
+9f525026,Europe,236,83,23
+2663202b,APAC,16,187,12
+854b4ef1,Middle East,459,186,3
+dda300bc,APAC,86,191,1
+a77ca74b,Europe,240,159,18
+f172ba14,Europe,29,164,28
+bfcdf5e3,APAC,203,186,21
+e212bf29,APAC,191,159,4
+d7b95940,APAC,24,154,25
+ca70367d,Middle East,268,88,10
+05938190,North America,372,163,1
+6955d0c0,APAC,368,149,3
+2ecce0f2,North America,331,53,12
+9f525026,APAC,140,199,14
+899adf07,Europe,159,106,3
+b7438489,North America,364,157,19
+78144a87,North America,195,188,10
+9385d0d7,APAC,268,133,23
+353cff54,Middle East,386,195,11
+a77ca74b,North America,72,123,5
+8b78cbe4,North America,436,100,11
+b819fa33,North America,314,144,4
+fd59ae00,Europe,464,79,29
+b819fa33,Europe,373,192,1
+61ec4b6b,Europe,17,125,12
+1202fec7,Europe,245,152,28
+325de8c6,North America,160,166,2
+44abcb5b,Europe,443,72,27
+77d80fd7,Middle East,212,135,4
+9bb49951,Europe,39,58,18
+eb919a6b,North America,143,117,21
+9f525026,Middle East,320,90,25
+dab5a7df,APAC,366,142,12
+19885574,APAC,90,62,22
+d7b95940,North America,40,181,25
+662017bf,APAC,136,100,24
+df71fe10,Europe,322,79,21
+4ccacb9e,Europe,348,171,15
+4602aa8e,Middle East,40,129,9
+bda39706,Europe,141,134,21
+9eaba675,Europe,148,127,11
+61ae0312,Middle East,415,162,11
+5311369c,Middle East,324,89,5
+36105ec3,North America,208,96,11
+ebf8752d,Middle East,47,65,18
+bda39706,Europe,119,59,6
+f532e6c1,Middle East,322,130,8
+5dfef1e7,North America,305,97,27
+5d8eb231,North America,402,166,11
+938d54c8,Europe,314,97,8
+8f4edd14,APAC,5,110,15
+9599b862,Middle East,203,55,9
+6a15a8ba,North America,215,117,20
+46ccc82c,APAC,387,123,26
+6e76688d,APAC,409,76,6
+9eaba675,Middle East,261,79,24
+254966e7,North America,133,50,29
+1d221cf1,Europe,212,102,9
+46ccc82c,APAC,446,170,27
+bfcdf5e3,Middle East,443,97,5
+f65606ea,Europe,293,132,9
+fd59ae00,North America,61,81,27
+2663202b,APAC,146,68,5
+2663202b,Europe,343,155,2
+b5406b55,North America,367,158,13
+18c6c97f,APAC,480,62,11
+5b2173d2,Europe,481,172,5
+de4f44fa,Middle East,220,142,21
+f172ba14,Europe,276,103,9
+4602aa8e,North America,101,192,5
+36da3048,North America,177,168,20
+a4c3d0e9,APAC,341,91,4
+09da27e5,APAC,188,104,25
+af071a53,Europe,494,110,5
+36105ec3,Europe,121,108,23
+f4f121aa,North America,70,109,5
+ca70367d,North America,361,169,12
+d3996df4,APAC,129,116,17
+1e0d0032,Europe,415,67,21
+9599b862,North America,257,132,21
+bb56826d,APAC,476,133,4
+43afa206,North America,166,144,12
+1bd63804,APAC,104,146,26
+9a08a8a3,North America,334,196,7
+df41dae6,North America,204,162,16
+5bfd3767,APAC,201,100,17
+33930178,Middle East,77,129,7
+e1652a7d,APAC,170,123,29
+f7dde1a6,North America,49,156,13
+4602aa8e,Europe,225,101,16
+0579b23f,North America,82,128,21
+13da12ee,Europe,121,197,20
+78144a87,Europe,161,131,7
+61ae0312,North America,347,155,27
+b17c6708,North America,19,128,24
+ef4b8087,Middle East,80,135,11
+bb56826d,Europe,54,157,4
+8e9b14b5,North America,79,159,2
+bda39706,North America,3,187,20
+bdb5a041,Europe,271,50,19
+f1b13c47,Middle East,204,129,2
+048830b8,Middle East,169,123,10
+048830b8,APAC,300,152,25
+b55e7ed3,North America,25,122,2
+850908a6,APAC,65,138,11
+0e344323,APAC,91,95,3
+ee1ff4bc,Middle East,485,151,19
+05938190,Europe,221,166,27
+3f58bd66,Europe,96,120,26
+a272fc07,APAC,190,149,1
+8f4edd14,Europe,85,177,16
+8f4edd14,APAC,38,123,28
+df71fe10,Europe,219,101,3
+5f347904,Europe,412,139,6
+36105ec3,Middle East,185,142,23
+9e3c7f65,North America,273,122,4
+f1b13c47,Europe,376,181,15
+6b99c758,Europe,315,84,3
+a77ca74b,Middle East,136,141,24
+e30c938e,Middle East,407,108,3
+7a4b793a,Europe,228,184,25
+f820985b,APAC,333,200,7
+b35b9760,Middle East,462,150,16
+e30c938e,Middle East,232,71,1
+69800fcd,APAC,112,197,1
+a272fc07,APAC,203,178,5
+b819fa33,Europe,157,170,8
+e93d62d2,North America,248,122,28
+5c54e280,Middle East,240,73,11
+53585ee1,Middle East,133,78,23
+9eaba675,Europe,215,200,12
+747ed694,Middle East,126,67,25
+0f276c83,Europe,375,127,11
+17af9844,North America,105,173,7
+e0f0f563,Middle East,210,158,8
+8e9b14b5,North America,177,194,24
+5311369c,Middle East,449,68,24
+5b2173d2,Europe,187,175,20
+254966e7,APAC,423,176,15
+8f4edd14,Middle East,237,161,27
+ebf8752d,North America,322,138,29
+75d03936,APAC,340,175,30
+19885574,APAC,347,188,18
+f9f4935c,Europe,471,147,13
+e6aaf121,Europe,308,109,2
+61ec4b6b,Europe,296,176,6
+e44ee390,North America,309,110,14
+b55e7ed3,Middle East,405,121,15
+a4077b0d,North America,312,130,8
+e6aaf121,Middle East,495,164,10
+1e0d0032,Europe,215,140,22
+36da3048,Middle East,348,188,8
+ee1ff4bc,North America,127,69,18
+00f4dfd8,Europe,323,54,10
+a968f58a,North America,384,58,16
+2a756b5e,APAC,255,70,19
+43afa206,Middle East,75,136,2
+23eee828,Europe,292,181,19
+62b6c5be,APAC,225,164,18
+5f347904,APAC,381,92,16
+65461e5d,Middle East,468,106,9
+2663202b,North America,497,160,13
+e0f0f563,Europe,481,60,13
+3517ebaa,North America,473,74,19
+fd59ae00,Europe,335,186,28
+049dac98,Middle East,114,73,22
+8e9b14b5,North America,157,57,28
+eb919a6b,APAC,71,199,8
+18c6c97f,Middle East,166,75,17
+afd2d7b7,North America,342,102,15
+a77ca74b,North America,228,127,17
+f820985b,North America,29,135,25
+c85584b6,North America,316,99,1
+ef4b8087,North America,388,188,6
+e66011f0,Middle East,242,66,7
+a77ca74b,Europe,452,110,24
+99bf3ecc,APAC,154,139,13
+95ddaf99,Europe,449,68,11
+dbcebfe0,APAC,425,161,7
+9d97f54a,North America,299,97,28
+2365e26a,Europe,118,137,21
+78144a87,Europe,339,189,11
+35d00fd3,Europe,397,62,23
+3ec50eff,Europe,96,114,29
+3d00078c,Europe,241,120,26
+65c8c6ec,APAC,390,180,3
+36a35545,Europe,391,71,28
+0579b23f,Europe,260,172,8
+bf3b67e9,Europe,205,113,17
+77d80fd7,APAC,152,130,10
+fe7ad87e,North America,19,107,2
+3affcc12,APAC,20,124,28
+5b2173d2,APAC,481,88,19
+f9fc54ab,Europe,214,63,24
+e350aa24,North America,231,61,10
+bfcdf5e3,APAC,32,61,23
+a272fc07,Middle East,61,171,23
+23eee828,North America,48,184,6
+61ec4b6b,Middle East,400,155,29
+ee1dd005,Middle East,64,100,12
+3d00078c,North America,106,186,16
+df71fe10,North America,137,147,21
+c3b61584,Middle East,329,126,23
+ebf8752d,APAC,436,105,22
+938d54c8,APAC,232,183,10
+b17c6708,North America,469,119,1
+2365e26a,Middle East,150,133,22
+b17c6708,APAC,494,178,7
+77d80fd7,Europe,344,78,30
+65c8c6ec,Middle East,353,194,17
+8ff3bfeb,Middle East,477,171,10
+ad6ae98d,North America,27,192,11
+ebf8752d,APAC,448,188,30
+f4f121aa,North America,463,192,24
+f4f121aa,Europe,385,145,11
+33930178,Middle East,316,77,11
+6e3e0a65,Middle East,336,104,10
+62b6c5be,Middle East,140,165,5
+117b4e21,North America,390,59,14
+481499a4,Europe,6,153,28
+0b9e7c37,Europe,40,53,22
+413e92eb,APAC,495,96,8
+368f3f3e,Middle East,368,83,2
+362e1c61,APAC,467,143,10
+af071a53,APAC,156,122,7
+858c451a,Middle East,211,157,3
+09da27e5,North America,379,153,13
+8e9b14b5,Europe,47,189,1
+a4077b0d,Europe,29,75,30
+ebf8752d,North America,470,52,15
+fe7ad87e,APAC,336,136,27
+de4f44fa,Middle East,459,54,15
+9bb49951,North America,217,86,21
+71d783a4,APAC,414,135,30
+325de8c6,Middle East,340,193,18
+1ccbacc0,Middle East,201,150,27
+f65606ea,Middle East,60,193,10
+05938190,Europe,310,96,29
+ad6ae98d,Middle East,125,61,13
+610b83e7,APAC,378,144,24
+6e3e0a65,North America,476,176,24
+1bd63804,North America,285,148,4
+7a2b4759,North America,378,121,30
+117b4e21,APAC,45,64,13
+899adf07,Middle East,8,100,1
+5bfd3767,APAC,361,89,7
+36da3048,APAC,143,123,5
+e6f25aa2,North America,337,162,9
+f4f121aa,APAC,211,94,29
+a77ca74b,North America,465,194,24
+0b9e7c37,Europe,71,161,25
+b17c6708,North America,442,63,19
+77d80fd7,North America,473,79,16
+5c6163b6,APAC,359,80,16
+61ec4b6b,APAC,192,152,10
+f172ba14,APAC,394,176,10
+0746e034,APAC,190,161,17
+a77ca74b,North America,208,97,18
+2365e26a,North America,102,85,8
+65c8c6ec,Europe,133,135,13
+f7dde1a6,Europe,396,163,30
+e1652a7d,Europe,408,103,29
+0e344323,Europe,186,70,23
+bdb5a041,Europe,305,77,22
+908a7ef1,North America,75,140,14
+5b2173d2,Europe,134,171,9
+45389b5c,Europe,376,69,15
+662017bf,North America,415,125,17
+8be56c0a,APAC,101,175,5
+65461e5d,APAC,204,115,13
+bdb5a041,Middle East,122,181,11
+44abcb5b,Europe,144,182,8
+b17c6708,APAC,328,74,8
+f7dde1a6,Europe,113,86,14
+dbcebfe0,North America,156,73,22
+3517ebaa,Europe,76,107,21
+bda39706,Europe,193,163,21
+1a9abe76,APAC,62,55,28
+3ec50eff,Europe,132,99,6
+c3b61584,Middle East,435,106,30
+9bb49951,Europe,258,197,22
+7a4b793a,North America,122,161,22
+362e1c61,APAC,487,100,4
+939d8bf2,North America,429,193,15
+b35b9760,North America,143,167,21
+75d03936,Europe,262,101,21
+17af9844,Europe,129,128,19
+6a15a8ba,APAC,5,57,8
+a77ca74b,APAC,67,53,11
+1a9abe76,Middle East,385,153,15
+3ec50eff,Middle East,486,181,27
+2663202b,Middle East,417,96,30
+747ed694,Middle East,448,181,6
+ebf8752d,Europe,129,73,22
+9bb49951,Middle East,80,176,30
+ebf8752d,APAC,151,94,21
+254966e7,North America,312,86,30
+447fcac8,North America,495,53,10
+61ec4b6b,Middle East,58,117,1
+c98332f4,North America,222,147,18
+190b4c52,North America,450,53,11
+1d221cf1,North America,274,113,4
+53585ee1,Middle East,42,153,13
+6955d0c0,Europe,430,117,7
+6e76688d,Europe,339,165,7
+3f58bd66,North America,18,133,26
+5311369c,Europe,300,160,19
+9385d0d7,APAC,302,85,12
+f9fc54ab,Europe,212,141,13
+1202fec7,North America,103,142,25
+d205a18b,North America,115,134,8
+368f3f3e,Middle East,333,157,5
+353cff54,APAC,323,96,11
+c3b61584,Europe,189,168,14
+ad6ae98d,Europe,199,102,27
+2365e26a,Middle East,223,99,27
+4602aa8e,Middle East,380,80,15
+7a2b4759,Europe,202,112,1
+bfcdf5e3,North America,396,193,25
+e84b4d2e,APAC,53,102,20
+a4077b0d,North America,82,186,6
+23eee828,North America,135,178,30
+049dac98,APAC,32,83,28
+662017bf,APAC,182,186,16
+09f79ff4,Europe,493,67,30
+7a4b793a,APAC,376,122,13
+fe7ad87e,North America,80,130,4
+de4f44fa,North America,446,98,14
+a968f58a,APAC,416,163,19
+3ec50eff,Europe,405,58,20
+fcede01b,Middle East,238,146,29
+5f2221da,APAC,220,194,20
+afd2d7b7,Middle East,59,120,5
+e6f25aa2,APAC,487,84,29
+99bf3ecc,APAC,152,157,14
+9bb49951,Europe,493,155,1
+6955d0c0,North America,49,197,14
+b17c6708,North America,427,187,18
+9d97f54a,Middle East,134,187,27
+3eafae84,North America,458,176,25
+1e0d0032,Middle East,282,150,13
+2a756b5e,Middle East,265,134,20
+1bd63804,Middle East,391,126,26
+1c1f7cd1,APAC,456,199,24
+9385d0d7,Middle East,156,142,23
+1bd63804,Middle East,390,182,29
+ad6ae98d,North America,286,63,5
+9498ae67,Europe,235,176,11
+33930178,APAC,262,155,17
+2365e26a,North America,293,56,17
+fe7ad87e,Middle East,430,106,6
+9cb435f7,Middle East,323,91,6
+8b78cbe4,APAC,175,109,12
+7a4b793a,Middle East,305,58,30
+a968f58a,APAC,84,113,23
+362e1c61,APAC,109,120,7
+8e9b14b5,APAC,425,147,20
+939d8bf2,APAC,262,117,23
+bb405c9c,APAC,211,194,18
+bb405c9c,Middle East,466,167,2
+7a2b4759,North America,349,183,22
+4602aa8e,Middle East,27,58,18
+a968f58a,APAC,449,117,6
+d30c4bea,Middle East,295,62,27
+413e92eb,North America,286,144,8
+df71fe10,Europe,375,60,25
+bf3b67e9,Middle East,118,152,10
+69800fcd,North America,481,130,10
+9d9059d3,North America,112,78,25
+e1652a7d,Europe,70,154,30
+1879ccab,APAC,295,179,7
+048830b8,North America,203,133,27
+bfcdf5e3,North America,268,191,25
+9bb49951,APAC,258,68,24
+53585ee1,North America,394,116,4
+44abcb5b,North America,198,190,26
+a968f58a,North America,482,86,4
+78144a87,Europe,302,61,10
+c3b61584,Middle East,248,181,30
+6a15a8ba,Europe,182,74,19
+50047f70,Europe,369,161,16
+6b99c758,Europe,286,164,27
+2359c6da,APAC,96,184,17
+23eee828,Europe,107,71,8
+a968f58a,APAC,480,68,17
+db313e16,North America,316,147,28
+13da12ee,Middle East,69,114,18
+19885574,Middle East,274,127,22
+53585ee1,APAC,136,117,14
+1e0d0032,Middle East,139,80,13
+bb405c9c,Europe,157,163,24
+61ec4b6b,APAC,473,72,10
+2a756b5e,Middle East,270,180,3
+fcede01b,Middle East,202,128,15
+a968f58a,Middle East,461,54,15
+0f276c83,Europe,170,98,28
+1e0d0032,Middle East,275,121,24
+db313e16,Europe,256,146,9
+03157eca,North America,453,60,11
+bfcdf5e3,Middle East,61,98,20
+1d221cf1,Middle East,271,86,19
+5d8eb231,Europe,382,181,15
+d3996df4,Europe,61,128,9
+dda300bc,Europe,141,154,21
+368f3f3e,Europe,220,193,21
+33930178,Europe,181,66,2
+94fdd1df,Middle East,42,73,30
+899adf07,APAC,266,89,22
+048830b8,Europe,44,140,16
+a4c3d0e9,Middle East,355,119,15
+e6aaf121,APAC,38,196,16
+7a2b4759,North America,205,142,21
+62b6c5be,Middle East,7,135,28
+e6aaf121,Middle East,384,156,20
+65c8c6ec,Europe,317,107,19
+75d03936,APAC,305,169,20
+36a35545,APAC,165,190,16
+071a3b70,North America,41,134,9
+368f3f3e,APAC,350,112,20
+dab5a7df,North America,1,71,15
+de4f44fa,Middle East,395,126,5
+475461e4,Middle East,220,119,19
+9a08a8a3,Europe,341,163,22
+9d9059d3,APAC,87,67,23
+3f58bd66,Europe,143,101,12
+a968f58a,Europe,432,117,10
+de4f44fa,North America,291,167,12
+662017bf,APAC,304,177,20
+2ecce0f2,APAC,102,118,28
+9cb435f7,North America,176,69,4
+882388e1,Middle East,258,141,9
+e0f0f563,Europe,4,127,24
+3517ebaa,Europe,236,113,26
+db313e16,Middle East,463,140,6
+a4077b0d,Europe,301,150,23
+e66011f0,Europe,448,146,15
+2365e26a,Middle East,306,128,28
+481499a4,Europe,189,168,23
+d205a18b,Europe,16,181,29
+eb919a6b,Middle East,452,75,12
+bfcdf5e3,Europe,45,139,7
+0579b23f,Europe,198,79,21
+475461e4,Europe,259,161,26
+af071a53,APAC,235,54,22
+e30c938e,APAC,3,114,11
+6d5d7a96,APAC,424,174,19
+0746e034,Europe,194,147,9
+0579b23f,APAC,170,125,21
+f1b13c47,Middle East,301,78,22
+ef4b8087,Middle East,255,66,10
+d2696f88,Middle East,178,136,10
+d3996df4,North America,428,92,26
+368f3f3e,North America,118,131,18
+3d00078c,Middle East,191,98,14
+09f79ff4,APAC,17,200,13
+09f79ff4,Europe,177,60,14
+353cff54,APAC,68,148,18
+71d391fa,APAC,107,101,16
+325de8c6,APAC,450,171,23
+362e1c61,APAC,353,176,14
+f9f4935c,APAC,170,187,16
+95ddaf99,Europe,270,65,9
+8f4edd14,Europe,267,64,15
+a272fc07,Europe,384,59,5
+c85584b6,North America,80,88,26
+7a4b793a,North America,267,187,2
+747ed694,Middle East,313,112,3
+fcede01b,APAC,457,101,5
+b7438489,Middle East,387,112,20
+9599b862,North America,188,123,28
+850908a6,Europe,407,74,10
+9cb435f7,Middle East,274,174,21
+4ccacb9e,Europe,264,98,20
+90261dd9,North America,97,84,23
+e66011f0,Middle East,92,122,15
+9eaba675,APAC,346,159,6
+938d54c8,Middle East,344,79,20
+2ecce0f2,North America,472,108,23
+61ec4b6b,Europe,314,56,3
+05938190,APAC,2,195,15
+75d03936,North America,484,166,9
+9385d0d7,Europe,183,100,26
+f7dde1a6,Middle East,166,111,3
+e44ee390,Middle East,342,102,27
+8b78cbe4,North America,58,78,22
+f9fc54ab,Middle East,26,125,12
+bce48a31,Middle East,137,134,19
+46ccc82c,North America,45,146,21
+325de8c6,North America,314,178,12
+1879ccab,APAC,218,141,6
+65c8c6ec,Middle East,216,99,6
+071a3b70,Europe,277,143,2
+f172ba14,North America,484,176,6
+850908a6,APAC,328,162,16
+f4f121aa,APAC,202,181,27
+44abcb5b,APAC,3,159,8
+6d5d7a96,APAC,112,100,12
+325de8c6,North America,140,81,14
+b55e7ed3,Middle East,258,183,23
+13da12ee,APAC,112,82,20
+8e53a344,Middle East,363,94,14
+e350aa24,North America,485,153,17
+a272fc07,APAC,188,80,3
+e6f25aa2,APAC,313,172,21
+9498ae67,Middle East,90,80,30
+b17c6708,Europe,70,93,6
+ef4b8087,Middle East,71,137,29
+d3996df4,Middle East,350,67,26
+3ec50eff,North America,73,66,11
+f65606ea,Middle East,144,87,4
+d205a18b,Middle East,149,99,30
+90261dd9,Europe,418,190,15
+b17c6708,APAC,428,78,9
+de4f44fa,APAC,365,160,20
+53585ee1,APAC,191,150,5
+ad6ae98d,Europe,480,128,7
+bce48a31,Middle East,380,106,10
+09f79ff4,APAC,331,144,10
+bdb5a041,North America,345,60,29
+36da3048,APAC,391,73,9
+f1b13c47,Middle East,55,117,23
+dbcebfe0,North America,414,179,3
+9bb49951,North America,17,72,27
+dda300bc,Europe,424,188,6
+b819fa33,Middle East,41,154,19
+475461e4,Europe,454,176,25
+fe7ad87e,North America,434,162,5
+5dfef1e7,APAC,86,194,29
+e44ee390,North America,248,133,10
+938d54c8,Middle East,12,129,30
+2359c6da,Europe,6,85,19
+c85584b6,North America,427,80,26
+90358d80,Middle East,50,146,1
+bb56826d,Europe,135,123,4
+77d80fd7,APAC,23,169,11
+1879ccab,North America,306,167,21
+bdb5a041,Middle East,454,143,19
+a272fc07,APAC,165,131,22
+eb919a6b,North America,328,130,12
+ad6ae98d,Europe,425,72,15
+e350aa24,Middle East,252,153,30
+77d80fd7,Europe,425,85,28
+6e76688d,APAC,408,170,19
+8b78cbe4,Middle East,470,124,15
+298b1972,Europe,367,177,8
+43afa206,North America,93,76,12
+854b4ef1,Middle East,102,152,17
+298b1972,Europe,354,75,22
+a77ca74b,Europe,452,58,9
+1c1f7cd1,APAC,440,104,2
+6e3e0a65,North America,271,55,17
+190b4c52,Europe,436,80,14
+bb56826d,North America,108,76,29
+61ec4b6b,Europe,310,112,12
+b5406b55,North America,125,81,6
+882388e1,APAC,383,117,2
+353cff54,Middle East,206,128,6
+f172ba14,APAC,446,60,13
+f9f4935c,Europe,235,173,16
+3eafae84,APAC,423,75,7
+09f79ff4,Middle East,204,57,15
+6d5d7a96,APAC,278,198,5
+53585ee1,APAC,441,96,17
+b35b9760,North America,463,70,8
+1ccbacc0,APAC,317,184,28
+ad6ae98d,Europe,77,53,20
+a77ca74b,APAC,442,192,16
+e1652a7d,APAC,334,158,17
+fe7ad87e,Europe,291,84,4
+50047f70,Middle East,141,84,2
+6b99c758,Europe,354,158,28
+53585ee1,North America,391,158,13
+36da3048,APAC,124,125,17
+69800fcd,Middle East,351,94,30
+1d221cf1,APAC,475,78,22
+71d391fa,North America,494,147,6
+bb56826d,Middle East,485,178,13
+c41758b1,Europe,130,157,22
+43afa206,Europe,114,148,12
+fe7ad87e,North America,68,165,25
+325de8c6,Europe,316,55,16
+f1b13c47,Europe,30,54,13
+94fdd1df,APAC,113,165,13
+9bb49951,APAC,303,188,29
+c98332f4,Europe,430,97,26
+e84b4d2e,Europe,306,51,7
+e6aaf121,Europe,61,168,14
+899adf07,Europe,417,158,17
+35d00fd3,Europe,456,136,23
+d2696f88,Middle East,354,92,25
+44abcb5b,North America,227,191,13
+6e76688d,Middle East,122,128,15
+e84b4d2e,Europe,44,67,20
+95ddaf99,Middle East,289,109,26
+325de8c6,North America,87,152,24
+9599b862,APAC,486,190,19
+5f347904,North America,95,68,9
+e84b4d2e,Middle East,242,179,6
+e30c938e,APAC,316,90,24
+fd59ae00,Middle East,420,172,18
+9d9059d3,Europe,367,81,28
+190b4c52,APAC,436,64,27
+dab5a7df,North America,300,161,26
+1202fec7,Europe,363,191,24
+53585ee1,APAC,347,155,20
+8392bfec,North America,325,119,6
+e34055cb,APAC,366,181,8
+2663202b,North America,67,69,2
+c9c42072,Middle East,62,96,15
+fd59ae00,Europe,148,161,19
+5bfd3767,APAC,56,108,13
+b17c6708,North America,413,96,14
+c85584b6,Europe,360,144,12
+46ccc82c,North America,26,102,1
+bfcdf5e3,APAC,206,125,20
+5bfd3767,Middle East,101,63,16
+d3996df4,Europe,292,72,15
+a4077b0d,Europe,65,97,11
+2365e26a,APAC,337,58,28
+b7438489,North America,113,66,25
+62b6c5be,APAC,64,117,15
+e84b4d2e,APAC,413,57,18
+dda300bc,North America,403,196,3
+f7dde1a6,North America,59,69,30
+1879ccab,Middle East,247,149,27
+9599b862,Middle East,221,106,22
+899adf07,North America,134,139,29
+362e1c61,North America,310,184,13
+368f3f3e,Middle East,160,171,6
+1d221cf1,Middle East,46,54,19
+610b83e7,APAC,357,67,2
+048830b8,Middle East,392,185,1
+2ecce0f2,Middle East,126,57,19
+69800fcd,Middle East,120,152,16
+3d00078c,Europe,198,192,2
+23eee828,Europe,249,165,27
+2ecce0f2,Middle East,210,84,30
+5f2221da,Europe,373,82,3
+8e53a344,Europe,338,115,24
+5f347904,APAC,391,142,14
+2663202b,APAC,151,90,14
+f1b13c47,Middle East,160,122,24
+9e3c7f65,North America,5,170,21
+2365e26a,APAC,443,200,24
+ee1dd005,APAC,430,82,28
+78144a87,Middle East,336,184,28
+882388e1,Middle East,89,134,17
+afb8bfc2,Middle East,61,186,23
+5311369c,Middle East,253,52,16
+bb405c9c,Middle East,162,132,3
+117b4e21,Europe,264,54,28
+e84b4d2e,Middle East,440,198,16
+71d783a4,Middle East,375,152,29
+f65606ea,Europe,452,175,26
+ca70367d,APAC,375,142,1
+a272fc07,Middle East,274,121,2
+dab5a7df,North America,426,110,25
+9a08a8a3,North America,67,144,6
+362e1c61,North America,448,73,15
+c9c42072,Middle East,415,199,20
+13da12ee,APAC,142,97,9
+18c6c97f,APAC,311,183,25
+ee1dd005,Middle East,247,157,4
+df41dae6,Europe,420,194,14
+e44ee390,North America,111,50,15
+13da12ee,APAC,103,144,24
+9eaba675,APAC,310,179,4
+8e9b14b5,APAC,239,88,25
+ee1dd005,APAC,170,101,5
+2359c6da,Europe,206,67,10
+f172ba14,APAC,364,51,4
+09da27e5,APAC,179,115,6
+1879ccab,APAC,21,189,13
+1879ccab,APAC,298,104,15
+94fdd1df,Middle East,119,168,2
+dda300bc,APAC,132,119,13
+9d9059d3,North America,46,159,22
+ad6ae98d,APAC,402,148,3
+049dac98,Europe,70,97,13
+ca436053,Middle East,208,142,30
+d3996df4,APAC,485,96,16
+a968f58a,Middle East,476,156,19
+9bb49951,Europe,107,105,30
+c98332f4,North America,344,192,25
+ee1ff4bc,Middle East,8,111,5
+939d8bf2,Europe,161,122,23
+1a9abe76,APAC,338,60,22
+03157eca,APAC,193,86,13
+f172ba14,Europe,268,190,2
+f7dde1a6,Middle East,30,126,20
+5dfef1e7,Middle East,212,192,9
+e30c938e,Middle East,198,198,17
+254966e7,Europe,261,96,7
+5c54e280,Europe,445,95,4
+190b4c52,North America,190,135,24
+09f79ff4,Europe,498,158,13
+09da27e5,North America,328,176,10
+5d8eb231,Middle East,397,167,30
+e350aa24,Middle East,411,156,19
+bf3b67e9,Middle East,24,83,7
+1ccbacc0,APAC,112,142,20
+b7438489,APAC,237,152,18
+f1b13c47,Middle East,151,132,20
+ee1ff4bc,Middle East,413,148,7
+dbcebfe0,Europe,164,177,18
+9f525026,APAC,327,141,15
+65461e5d,Middle East,240,179,9
+94fdd1df,Europe,493,169,8
+4ccacb9e,North America,388,177,11
+77d80fd7,Middle East,55,57,13
+b17c6708,North America,232,136,4
+b7438489,North America,29,183,4
+1202fec7,Europe,484,83,10
+938d54c8,Middle East,386,78,27
+af071a53,APAC,166,105,15
+afd2d7b7,Europe,175,101,25
+5d8eb231,North America,138,73,15
+3f58bd66,North America,3,181,20
+95ddaf99,Europe,448,70,15
+b3ee2df5,Middle East,195,113,9
+747ed694,North America,335,68,11
+03157eca,North America,374,184,11
+5c54e280,Middle East,429,126,16
+1d221cf1,Europe,339,169,22
+a272fc07,North America,239,82,2
+117b4e21,North America,323,94,20
+1879ccab,Europe,79,111,20
+5311369c,Europe,197,178,16
+50047f70,APAC,220,150,25
+9385d0d7,Middle East,305,73,1
+de4f44fa,North America,230,171,6
+9a08a8a3,Middle East,435,127,19
+0579b23f,North America,490,145,24
+c41758b1,Europe,21,177,26
+5d8eb231,Europe,334,157,18
+50047f70,North America,130,165,22
+df71fe10,Middle East,372,90,13
+1bd63804,Middle East,477,165,21
+36105ec3,Middle East,471,72,23
+0f276c83,APAC,109,177,4
+e0f0f563,Europe,398,123,26
+3d00078c,Europe,138,184,6
+3eafae84,Middle East,71,100,28
+b17c6708,North America,103,129,11
+95ddaf99,Middle East,401,157,4
